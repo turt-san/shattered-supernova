@@ -1,16 +1,13 @@
-filename = 'structureessentials-1.20.1-5.1.jar'
-name = 'Structure Essentials'
-side = 'both'
+name = "Structure Essentials"
+filename = "structureessentials-1.20.1-5.1.jar"
+side = "both"
 
 [download]
-hash = 'a902167c4c3009d7271f60708b9f29f5d6a9a4ca'
-hash-format = 'sha1'
-mode = 'metadata:curseforge'
+hash-format = "sha1"
+hash = "a902167c4c3009d7271f60708b9f29f5d6a9a4ca"
+mode = "metadata:curseforge"
 
+[update]
 [update.curseforge]
 file-id = 9278573
 project-id = 832882
-
-[[x-prismlauncher-dependencies]]
-addonId = '326652'
-type = 'REQUIRED'

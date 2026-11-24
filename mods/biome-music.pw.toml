@@ -1,16 +1,13 @@
-filename = 'biomemusic-1.20.1-4.1.jar'
-name = 'Biome Music'
-side = 'both'
+name = "Biome Music"
+filename = "biomemusic-1.20.1-4.1.jar"
+side = "both"
 
 [download]
-hash = 'f802fa65812616761afd6a292c2b431955caec9d'
-hash-format = 'sha1'
-mode = 'metadata:curseforge'
+hash-format = "sha1"
+hash = "f802fa65812616761afd6a292c2b431955caec9d"
+mode = "metadata:curseforge"
 
+[update]
 [update.curseforge]
 file-id = 8318253
 project-id = 840873
-
-[[x-prismlauncher-dependencies]]
-addonId = '326652'
-type = 'REQUIRED'

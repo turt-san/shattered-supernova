@@ -1,12 +1,13 @@
-filename = 'justanotherlibrarymod-1.20.1FORGE-1.1.9.jar'
-name = 'JustAnotherLibrary'
-side = 'both'
+name = "JustAnotherLibrary"
+filename = "justanotherlibrarymod-1.20.1FORGE-1.1.9.jar"
+side = "both"
 
 [download]
-hash = 'd69038f0135afe1ff720b695467441b16155ec68'
-hash-format = 'sha1'
-mode = 'metadata:curseforge'
+hash-format = "sha1"
+hash = "d69038f0135afe1ff720b695467441b16155ec68"
+mode = "metadata:curseforge"
 
+[update]
 [update.curseforge]
 file-id = 6316258
 project-id = 1121892

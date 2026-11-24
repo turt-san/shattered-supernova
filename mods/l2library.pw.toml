@@ -1,20 +1,13 @@
-filename = 'l2library-2.5.7.jar'
-name = 'L2 Library'
-side = 'both'
+name = "L2 Library"
+filename = "l2library-2.5.7.jar"
+side = "both"
 
 [download]
-hash = 'c22a1c4d47de71b840bbbbff2417360cacfc99d3'
-hash-format = 'sha1'
-mode = 'metadata:curseforge'
+hash-format = "sha1"
+hash = "c22a1c4d47de71b840bbbbff2417360cacfc99d3"
+mode = "metadata:curseforge"
 
+[update]
 [update.curseforge]
 file-id = 9538686
 project-id = 620203
-
-[[x-prismlauncher-dependencies]]
-addonId = '388172'
-type = 'OPTIONAL'
-
-[[x-prismlauncher-dependencies]]
-addonId = '309927'
-type = 'OPTIONAL'

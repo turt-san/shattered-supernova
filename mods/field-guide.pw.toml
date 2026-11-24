@@ -1,37 +1,13 @@
-filename = 'fieldguide-1.25.0+1.20.1-forge.jar'
-name = 'Field Guide'
-side = 'both'
+name = "Field Guide"
+filename = "fieldguide-1.25.0+1.20.1-forge.jar"
+side = "both"
 
 [download]
-hash = '4283b64fb6e1a33205cb20a3e7c691857a96dab91e27b70a20bfa36fb571752bc96f1ab70394a8a96a9e3363f1a37317ad14ee38dc0339613c5bc73ab4b6b191'
-hash-format = 'sha512'
-mode = 'url'
-url = 'https://cdn.modrinth.com/data/72RRCWM6/versions/Z1hjeMLx/fieldguide-1.25.0%2B1.20.1-forge.jar'
+url = "https://cdn.modrinth.com/data/72RRCWM6/versions/Z1hjeMLx/fieldguide-1.25.0%2B1.20.1-forge.jar"
+hash-format = "sha512"
+hash = "4283b64fb6e1a33205cb20a3e7c691857a96dab91e27b70a20bfa36fb571752bc96f1ab70394a8a96a9e3363f1a37317ad14ee38dc0339613c5bc73ab4b6b191"
 
+[update]
 [update.modrinth]
-mod-id = '72RRCWM6'
-version = 'Z1hjeMLx'
-
-[[x-prismlauncher-dependencies]]
-addonId = 'UaizcMKP'
-type = 'REQUIRED'
-
-[[x-prismlauncher-dependencies]]
-addonId = 'nvQzSEkH'
-type = 'OPTIONAL'
-
-[[x-prismlauncher-dependencies]]
-addonId = '1eAoo2KR'
-type = 'OPTIONAL'
-
-[[x-prismlauncher-dependencies]]
-addonId = 'umyGl7zF'
-type = 'OPTIONAL'
-
-[[x-prismlauncher-dependencies]]
-addonId = 'PKoLkD98'
-type = 'REQUIRED'
-
-[[x-prismlauncher-dependencies]]
-addonId = 'fRiHVvU7'
-type = 'OPTIONAL'
+mod-id = "72RRCWM6"
+version = "Z1hjeMLx"

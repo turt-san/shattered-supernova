@@ -1,17 +1,13 @@
-filename = 'treeharvester-1.20.1-11.1.jar'
-name = 'Tree Harvester'
-side = 'both'
+name = "Tree Harvester"
+filename = "treeharvester-1.20.1-11.1.jar"
+side = "both"
 
 [download]
-hash = '4ba2bc295e5c2cf444d4f8c580d44574adc32915bf93650e0b47912be4d9d861bc083ec527012012e3db5bdc59c4ab77a6c696006715344ef755a41a09f615f3'
-hash-format = 'sha512'
-mode = 'url'
-url = 'https://cdn.modrinth.com/data/abooMhox/versions/9bIVdLpp/treeharvester-1.20.1-11.1.jar'
+url = "https://cdn.modrinth.com/data/abooMhox/versions/9bIVdLpp/treeharvester-1.20.1-11.1.jar"
+hash-format = "sha512"
+hash = "4ba2bc295e5c2cf444d4f8c580d44574adc32915bf93650e0b47912be4d9d861bc083ec527012012e3db5bdc59c4ab77a6c696006715344ef755a41a09f615f3"
 
+[update]
 [update.modrinth]
-mod-id = 'abooMhox'
-version = '9bIVdLpp'
-
-[[x-prismlauncher-dependencies]]
-addonId = 'e0M1UDsY'
-type = 'REQUIRED'
+mod-id = "abooMhox"
+version = "9bIVdLpp"

@@ -1,21 +1,13 @@
-filename = 'IntegratedDynamics-1.20.1-1.31.5.jar'
-name = 'Integrated Dynamics'
-side = 'both'
+name = "Integrated Dynamics"
+filename = "IntegratedDynamics-1.20.1-1.31.5.jar"
+side = "both"
 
 [download]
-hash = 'd94b221a004881c5051b4c8aaf3c64da511fb62369c620713d9c3e60875338901fb037e2a3e566cb9be34017738777497b41eebbb64fefcf261651488bd29028'
-hash-format = 'sha512'
-mode = 'url'
-url = 'https://cdn.modrinth.com/data/yYzdQHJI/versions/mr4VKfPw/IntegratedDynamics-1.20.1-1.31.5.jar'
+url = "https://cdn.modrinth.com/data/yYzdQHJI/versions/mr4VKfPw/IntegratedDynamics-1.20.1-1.31.5.jar"
+hash-format = "sha512"
+hash = "d94b221a004881c5051b4c8aaf3c64da511fb62369c620713d9c3e60875338901fb037e2a3e566cb9be34017738777497b41eebbb64fefcf261651488bd29028"
 
+[update]
 [update.modrinth]
-mod-id = 'yYzdQHJI'
-version = 'mr4VKfPw'
-
-[[x-prismlauncher-dependencies]]
-addonId = 'oFXrCkDI'
-type = 'REQUIRED'
-
-[[x-prismlauncher-dependencies]]
-addonId = 'Z9DM0LJ4'
-type = 'REQUIRED'
+mod-id = "yYzdQHJI"
+version = "mr4VKfPw"

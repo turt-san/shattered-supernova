@@ -1,21 +1,13 @@
-filename = 'BiomesOPlenty-forge-1.20.1-19.0.0.96.jar'
 name = "Biomes O' Plenty"
-side = 'both'
+filename = "BiomesOPlenty-forge-1.20.1-19.0.0.96.jar"
+side = "both"
 
 [download]
-hash = 'd23b4526f80ed88b9253b4cb28f9f2675744dcabfee9e19f3e33f5870b84b7fa1e3104ff1201d0b4408d6a8354195cbedee1ed42100c9778e1ffd32ddab5e55e'
-hash-format = 'sha512'
-mode = 'url'
-url = 'https://cdn.modrinth.com/data/HXF82T3G/versions/jxUqRzSD/BiomesOPlenty-forge-1.20.1-19.0.0.96.jar'
+hash-format = "sha1"
+hash = "957adcd274e7c64853c93293976ecdd388a3b7fe"
+mode = "metadata:curseforge"
 
-[update.modrinth]
-mod-id = 'HXF82T3G'
-version = 'jxUqRzSD'
-
-[[x-prismlauncher-dependencies]]
-addonId = 'kkmrDlKT'
-type = 'REQUIRED'
-
-[[x-prismlauncher-dependencies]]
-addonId = 's3dmwKy5'
-type = 'REQUIRED'
+[update]
+[update.curseforge]
+file-id = 6364065
+project-id = 220318

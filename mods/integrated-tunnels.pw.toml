@@ -1,21 +1,13 @@
-filename = 'IntegratedTunnels-1.20.1-1.10.1.jar'
-name = 'Integrated Tunnels'
-side = 'both'
+name = "Integrated Tunnels"
+filename = "IntegratedTunnels-1.20.1-1.10.1.jar"
+side = "both"
 
 [download]
-hash = '810abaab3aa095d9e348404c12314c9d73fdc627e6dc15e4b3401ec8066ac53c33de6a4280e1c5aa4ee195fd46b90effc054604fb2ca1ba6e335988b48cb0f51'
-hash-format = 'sha512'
-mode = 'url'
-url = 'https://cdn.modrinth.com/data/Etqy1Omb/versions/PJwHAQV6/IntegratedTunnels-1.20.1-1.10.1.jar'
+url = "https://cdn.modrinth.com/data/Etqy1Omb/versions/PJwHAQV6/IntegratedTunnels-1.20.1-1.10.1.jar"
+hash-format = "sha512"
+hash = "810abaab3aa095d9e348404c12314c9d73fdc627e6dc15e4b3401ec8066ac53c33de6a4280e1c5aa4ee195fd46b90effc054604fb2ca1ba6e335988b48cb0f51"
 
+[update]
 [update.modrinth]
-mod-id = 'Etqy1Omb'
-version = 'PJwHAQV6'
-
-[[x-prismlauncher-dependencies]]
-addonId = 'oFXrCkDI'
-type = 'REQUIRED'
-
-[[x-prismlauncher-dependencies]]
-addonId = 'Z9DM0LJ4'
-type = 'REQUIRED'
+mod-id = "Etqy1Omb"
+version = "PJwHAQV6"

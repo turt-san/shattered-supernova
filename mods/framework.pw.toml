@@ -1,20 +1,13 @@
-filename = 'framework-forge-1.20.1-0.8.0.jar'
-name = 'Framework'
-side = 'both'
+name = "Framework"
+filename = "framework-forge-1.20.1-0.8.0.jar"
+side = "both"
 
 [download]
-hash = '27347879f8760a7bc0b4bd71977abc50e498811c'
-hash-format = 'sha1'
-mode = 'metadata:curseforge'
+hash-format = "sha1"
+hash = "27347879f8760a7bc0b4bd71977abc50e498811c"
+mode = "metadata:curseforge"
 
+[update]
 [update.curseforge]
 file-id = 7573740
 project-id = 549225
-
-[[x-prismlauncher-dependencies]]
-addonId = '457570'
-type = 'OPTIONAL'
-
-[[x-prismlauncher-dependencies]]
-addonId = '459701'
-type = 'OPTIONAL'

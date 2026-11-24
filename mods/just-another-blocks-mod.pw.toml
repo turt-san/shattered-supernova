@@ -1,16 +1,13 @@
-filename = 'justanotherblocksmod-1.3.2-1.20.1FORGE.jar'
-name = 'Just Some More Blocks'
-side = 'both'
+name = "Just Some More Blocks"
+filename = "justanotherblocksmod-1.3.2-1.20.1FORGE.jar"
+side = "both"
 
 [download]
-hash = 'feec76b7a661e730261138744c0bddcc7741ddad'
-hash-format = 'sha1'
-mode = 'metadata:curseforge'
+hash-format = "sha1"
+hash = "feec76b7a661e730261138744c0bddcc7741ddad"
+mode = "metadata:curseforge"
 
+[update]
 [update.curseforge]
 file-id = 6709119
 project-id = 896737
-
-[[x-prismlauncher-dependencies]]
-addonId = '1121892'
-type = 'REQUIRED'

@@ -1,25 +1,13 @@
-filename = 'ls_furniture-1.0.9-Forge-1.20.1.jar'
-name = 'Furnection'
-side = 'both'
+name = "Furnection"
+filename = "ls_furniture-1.0.9-Forge-1.20.1.jar"
+side = "both"
 
 [download]
-hash = '5a9373c959be7935c59b6435630c6e42c91945051b449ab32345a7100efe3bfaea4faae51cabde9bcaafb57cefe2cf5f321213a24240c13dad8580c81e9ea339'
-hash-format = 'sha512'
-mode = 'url'
-url = 'https://cdn.modrinth.com/data/CR0S3SGP/versions/h8mgi8dr/ls_furniture-1.0.9-Forge-1.20.1.jar'
+url = "https://cdn.modrinth.com/data/CR0S3SGP/versions/h8mgi8dr/ls_furniture-1.0.9-Forge-1.20.1.jar"
+hash-format = "sha512"
+hash = "5a9373c959be7935c59b6435630c6e42c91945051b449ab32345a7100efe3bfaea4faae51cabde9bcaafb57cefe2cf5f321213a24240c13dad8580c81e9ea339"
 
+[update]
 [update.modrinth]
-mod-id = 'CR0S3SGP'
-version = 'h8mgi8dr'
-
-[[x-prismlauncher-dependencies]]
-addonId = 'G1hIVOrD'
-type = 'REQUIRED'
-
-[[x-prismlauncher-dependencies]]
-addonId = 'lhGA9TYQ'
-type = 'REQUIRED'
-
-[[x-prismlauncher-dependencies]]
-addonId = 'ecwMmZnK'
-type = 'REQUIRED'
+mod-id = "CR0S3SGP"
+version = "h8mgi8dr"

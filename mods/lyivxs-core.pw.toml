@@ -1,21 +1,13 @@
-filename = 'ls_core-1.1.5-Forge-1.20.1.jar'
 name = "LYIVX's Core"
-side = 'both'
+filename = "ls_core-1.1.5-Forge-1.20.1.jar"
+side = "both"
 
 [download]
-hash = '11c975b615a798f56aec224776ae5d468024f29aca8a61719f02ad288306c5af60263938793c42c67df1e809253496381878e20d4222b767969e2aba7780c459'
-hash-format = 'sha512'
-mode = 'url'
-url = 'https://cdn.modrinth.com/data/ecwMmZnK/versions/zrw3j7nJ/ls_core-1.1.5-Forge-1.20.1.jar'
+url = "https://cdn.modrinth.com/data/ecwMmZnK/versions/zrw3j7nJ/ls_core-1.1.5-Forge-1.20.1.jar"
+hash-format = "sha512"
+hash = "11c975b615a798f56aec224776ae5d468024f29aca8a61719f02ad288306c5af60263938793c42c67df1e809253496381878e20d4222b767969e2aba7780c459"
 
+[update]
 [update.modrinth]
-mod-id = 'ecwMmZnK'
-version = 'zrw3j7nJ'
-
-[[x-prismlauncher-dependencies]]
-addonId = 'lhGA9TYQ'
-type = 'REQUIRED'
-
-[[x-prismlauncher-dependencies]]
-addonId = 'G1hIVOrD'
-type = 'REQUIRED'
+mod-id = "ecwMmZnK"
+version = "zrw3j7nJ"

@@ -1,16 +1,13 @@
-filename = 'worleycaves-forge-1.2-1.20.1.jar'
 name = "Worley's Caves Reforged"
-side = 'both'
+filename = "worleycaves-forge-1.2-1.20.1.jar"
+side = "both"
 
 [download]
-hash = '9fe28d64040e247262b0b81cd9841c3abcd9c372'
-hash-format = 'sha1'
-mode = 'metadata:curseforge'
+hash-format = "sha1"
+hash = "9fe28d64040e247262b0b81cd9841c3abcd9c372"
+mode = "metadata:curseforge"
 
+[update]
 [update.curseforge]
 file-id = 9426542
 project-id = 1690640
-
-[[x-prismlauncher-dependencies]]
-addonId = '419699'
-type = 'REQUIRED'

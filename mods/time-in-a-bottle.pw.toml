@@ -1,12 +1,13 @@
-filename = 'time-in-a-bottle-4.1.1-mc1.20.1.jar'
-name = 'Time in a Bottle'
-side = 'both'
+name = "Time in a Bottle"
+filename = "time-in-a-bottle-4.1.1-mc1.20.1.jar"
+side = "both"
 
 [download]
-hash = 'c6691825489b709066f2a348c49609ca7da7f267'
-hash-format = 'sha1'
-mode = 'metadata:curseforge'
+hash-format = "sha1"
+hash = "c6691825489b709066f2a348c49609ca7da7f267"
+mode = "metadata:curseforge"
 
+[update]
 [update.curseforge]
 file-id = 8988876
 project-id = 895919

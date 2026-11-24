@@ -1,17 +1,13 @@
-filename = 'experienced_crops-1.20.1-1.1.0-forge.jar'
-name = 'Experienced Crops'
-side = 'both'
+name = "Experienced Crops"
+filename = "experienced_crops-1.20.1-1.1.0-forge.jar"
+side = "both"
 
 [download]
-hash = 'b7ec92f5b150415d401fafbbaa7730af68b232a71538c3d59194d38e1db2c9126f3bef3ffa1fe044092ddea31cd4e707b8487d480bb06d0377bf9c4bd87e787e'
-hash-format = 'sha512'
-mode = 'url'
-url = 'https://cdn.modrinth.com/data/Obi0OZ4c/versions/IYPAlitn/experienced_crops-1.20.1-1.1.0-forge.jar'
+url = "https://cdn.modrinth.com/data/Obi0OZ4c/versions/IYPAlitn/experienced_crops-1.20.1-1.1.0-forge.jar"
+hash-format = "sha512"
+hash = "b7ec92f5b150415d401fafbbaa7730af68b232a71538c3d59194d38e1db2c9126f3bef3ffa1fe044092ddea31cd4e707b8487d480bb06d0377bf9c4bd87e787e"
 
+[update]
 [update.modrinth]
-mod-id = 'Obi0OZ4c'
-version = 'IYPAlitn'
-
-[[x-prismlauncher-dependencies]]
-addonId = 'twkfQtEc'
-type = 'REQUIRED'
+mod-id = "Obi0OZ4c"
+version = "IYPAlitn"

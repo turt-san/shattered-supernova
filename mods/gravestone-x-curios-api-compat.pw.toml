@@ -1,25 +1,13 @@
-filename = 'gravestonecurioscompat-1.20.1-Forge-4.2.1.jar'
-name = 'Gravestone x Curios API Compat'
-side = 'both'
+name = "Gravestone x Curios API Compat"
+filename = "gravestonecurioscompat-1.20.1-Forge-4.2.1.jar"
+side = "both"
 
 [download]
-hash = 'ac9741d460c46dc6f5199105e04167c808abd9ad93c87481113b1bba57f44cdd54f973437fa2647ca9407473113a22e3382b8a5d1c9b2a66580c0073338be252'
-hash-format = 'sha512'
-mode = 'url'
-url = 'https://cdn.modrinth.com/data/NaiL8bPN/versions/7AyO4kKS/gravestonecurioscompat-1.20.1-Forge-4.2.1.jar'
+url = "https://cdn.modrinth.com/data/NaiL8bPN/versions/7AyO4kKS/gravestonecurioscompat-1.20.1-Forge-4.2.1.jar"
+hash-format = "sha512"
+hash = "ac9741d460c46dc6f5199105e04167c808abd9ad93c87481113b1bba57f44cdd54f973437fa2647ca9407473113a22e3382b8a5d1c9b2a66580c0073338be252"
 
+[update]
 [update.modrinth]
-mod-id = 'NaiL8bPN'
-version = '7AyO4kKS'
-
-[[x-prismlauncher-dependencies]]
-addonId = 'RYtXKJPr'
-type = 'REQUIRED'
-
-[[x-prismlauncher-dependencies]]
-addonId = 'OfKzpbRU'
-type = 'REQUIRED'
-
-[[x-prismlauncher-dependencies]]
-addonId = 'vvuO3ImH'
-type = 'REQUIRED'
+mod-id = "NaiL8bPN"
+version = "7AyO4kKS"

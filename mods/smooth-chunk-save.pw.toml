@@ -1,16 +1,13 @@
-filename = 'smoothchunk-1.20.1-4.4.jar'
-name = 'Server Performance - Smooth Chunk Save'
-side = 'both'
+name = "Server Performance - Smooth Chunk Save"
+filename = "smoothchunk-1.20.1-4.4.jar"
+side = "both"
 
 [download]
-hash = '1da0455655c0c4d6678e7ca408b78fcac69838ad'
-hash-format = 'sha1'
-mode = 'metadata:curseforge'
+hash-format = "sha1"
+hash = "1da0455655c0c4d6678e7ca408b78fcac69838ad"
+mode = "metadata:curseforge"
 
+[update]
 [update.curseforge]
 file-id = 9255094
 project-id = 582327
-
-[[x-prismlauncher-dependencies]]
-addonId = '326652'
-type = 'REQUIRED'

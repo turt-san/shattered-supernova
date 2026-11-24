@@ -1,13 +1,13 @@
-filename = 'CyclopsCore-1.20.1-1.22.5.jar'
-name = 'Cyclops Core'
-side = 'both'
+name = "Cyclops Core"
+filename = "CyclopsCore-1.20.1-1.22.5.jar"
+side = "both"
 
 [download]
-hash = '4e3399ce78e9e1a5fa04073919f6df0ce6687ee5fc921918c6d92821e613baa5c40323f9129a5962edf7232a4671a27c9498b867abbef4c091bda4b53ce82c7e'
-hash-format = 'sha512'
-mode = 'url'
-url = 'https://cdn.modrinth.com/data/Z9DM0LJ4/versions/YapwTrss/CyclopsCore-1.20.1-1.22.5.jar'
+url = "https://cdn.modrinth.com/data/Z9DM0LJ4/versions/YapwTrss/CyclopsCore-1.20.1-1.22.5.jar"
+hash-format = "sha512"
+hash = "4e3399ce78e9e1a5fa04073919f6df0ce6687ee5fc921918c6d92821e613baa5c40323f9129a5962edf7232a4671a27c9498b867abbef4c091bda4b53ce82c7e"
 
+[update]
 [update.modrinth]
-mod-id = 'Z9DM0LJ4'
-version = 'YapwTrss'
+mod-id = "Z9DM0LJ4"
+version = "YapwTrss"

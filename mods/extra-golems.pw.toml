@@ -1,36 +1,13 @@
-filename = 'extragolems-20.1.0.2.jar'
-name = 'Extra Golems'
-side = 'both'
+name = "Extra Golems"
+filename = "extragolems-20.1.0.2.jar"
+side = "both"
 
 [download]
-hash = '5d70dbd7d0e6dedc95d51243866cfdb9127d20e6'
-hash-format = 'sha1'
-mode = 'metadata:curseforge'
+hash-format = "sha1"
+hash = "5d70dbd7d0e6dedc95d51243866cfdb9127d20e6"
+mode = "metadata:curseforge"
 
+[update]
 [update.curseforge]
 file-id = 5206477
 project-id = 233300
-
-[[x-prismlauncher-dependencies]]
-addonId = '222880'
-type = 'OPTIONAL'
-
-[[x-prismlauncher-dependencies]]
-addonId = '220318'
-type = 'OPTIONAL'
-
-[[x-prismlauncher-dependencies]]
-addonId = '245211'
-type = 'OPTIONAL'
-
-[[x-prismlauncher-dependencies]]
-addonId = '324717'
-type = 'OPTIONAL'
-
-[[x-prismlauncher-dependencies]]
-addonId = '268560'
-type = 'OPTIONAL'
-
-[[x-prismlauncher-dependencies]]
-addonId = '243121'
-type = 'OPTIONAL'

@@ -1,16 +1,13 @@
-filename = 'spell_descriptions-1.20.1-1.0.0.jar'
-name = 'Spell Descriptions (ISS)'
-side = 'both'
+name = "Spell Descriptions (ISS)"
+filename = "spell_descriptions-1.20.1-1.0.0.jar"
+side = "both"
 
 [download]
-hash = 'f5b12afe2fd3e4e13eb9eaf114f194fa63e3221a'
-hash-format = 'sha1'
-mode = 'metadata:curseforge'
+hash-format = "sha1"
+hash = "f5b12afe2fd3e4e13eb9eaf114f194fa63e3221a"
+mode = "metadata:curseforge"
 
+[update]
 [update.curseforge]
 file-id = 8411421
 project-id = 1605948
-
-[[x-prismlauncher-dependencies]]
-addonId = '855414'
-type = 'REQUIRED'

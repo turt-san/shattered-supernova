@@ -1,16 +1,13 @@
-filename = 'lootintegrations-1.20.1-4.9.jar'
-name = 'Loot Integrations'
-side = 'both'
+name = "Loot Integrations"
+filename = "lootintegrations-1.20.1-4.9.jar"
+side = "both"
 
 [download]
-hash = '846525ef140c2e7c01cb1286265125c6f266ea3e'
-hash-format = 'sha1'
-mode = 'metadata:curseforge'
+hash-format = "sha1"
+hash = "846525ef140c2e7c01cb1286265125c6f266ea3e"
+mode = "metadata:curseforge"
 
+[update]
 [update.curseforge]
 file-id = 9579491
 project-id = 580689
-
-[[x-prismlauncher-dependencies]]
-addonId = '326652'
-type = 'REQUIRED'

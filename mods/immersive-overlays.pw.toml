@@ -1,21 +1,13 @@
-filename = 'immersiveoverlays-1.8.7-1.20.1-forge.jar'
-name = 'Immersive Overlays'
-side = 'client'
+name = "Immersive Overlays"
+filename = "immersiveoverlays-1.8.7+1.20.1-forge.jar"
+side = "client"
 
 [download]
-hash = '379d18bb487f4f563317fc03aba30741cb08be3ac3e4a26c4c6daf81ed8c96e05d5f30d3ff217416c9b29cbb08cf1251e837a78b8b475499b7449c3116f99d1e'
-hash-format = 'sha512'
-mode = 'url'
-url = 'https://cdn.modrinth.com/data/PKoLkD98/versions/VfwmwUwz/immersiveoverlays-1.8.7%2B1.20.1-forge.jar'
+url = "https://cdn.modrinth.com/data/PKoLkD98/versions/VfwmwUwz/immersiveoverlays-1.8.7%2B1.20.1-forge.jar"
+hash-format = "sha512"
+hash = "379d18bb487f4f563317fc03aba30741cb08be3ac3e4a26c4c6daf81ed8c96e05d5f30d3ff217416c9b29cbb08cf1251e837a78b8b475499b7449c3116f99d1e"
 
+[update]
 [update.modrinth]
-mod-id = 'PKoLkD98'
-version = 'VfwmwUwz'
-
-[[x-prismlauncher-dependencies]]
-addonId = 'ZLBHdIxU'
-type = 'EMBEDDED'
-
-[[x-prismlauncher-dependencies]]
-addonId = '9s6osm5g'
-type = 'OPTIONAL'
+mod-id = "PKoLkD98"
+version = "VfwmwUwz"

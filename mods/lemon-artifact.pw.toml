@@ -1,16 +1,13 @@
-filename = 'lemon_artifact-1.0.0.jar'
-name = 'Lemon Artifact'
-side = 'both'
+name = "Lemon Artifact"
+filename = "lemon_artifact-1.0.0.jar"
+side = "both"
 
 [download]
-hash = '9f1bbdea2e7705ab3a5462d44a0051fc970b4398'
-hash-format = 'sha1'
-mode = 'metadata:curseforge'
+url = "https://cdn.modrinth.com/data/m2x9cOo5/versions/bCIpfQ5c/lemon_artifact-1.0.0.jar"
+hash-format = "sha512"
+hash = "bf7b97009c92cee19cb2683b03eb03330daaa71c2595a37f9d0aec48e626f7ab83f6b4e85b3a96602ec7cc8f477c6b33dd369d5aea3f3325ca02bc02a4d0aedd"
 
-[update.curseforge]
-file-id = 8094979
-project-id = 1538473
-
-[[x-prismlauncher-dependencies]]
-addonId = '309927'
-type = 'REQUIRED'
+[update]
+[update.modrinth]
+mod-id = "m2x9cOo5"
+version = "bCIpfQ5c"

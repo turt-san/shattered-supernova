@@ -1,33 +1,13 @@
-filename = 'mythsandlegends-1.0.6.jar'
-name = 'Myths & Legends'
-side = 'both'
+name = "Myths & Legends"
+filename = "mythsandlegends-1.0.6.jar"
+side = "both"
 
 [download]
-hash = 'a4397b7003f42e0e2d6062b3ec998095627dfa9dfe44aec8907489b5927c61b438d817a7070380d75799e7b3220865610725e49c90d983e534f548e3ef3a45d6'
-hash-format = 'sha512'
-mode = 'url'
-url = 'https://cdn.modrinth.com/data/JzgNbcKE/versions/J9qH2IC8/mythsandlegends-1.0.6.jar'
+url = "https://cdn.modrinth.com/data/JzgNbcKE/versions/J9qH2IC8/mythsandlegends-1.0.6.jar"
+hash-format = "sha512"
+hash = "a4397b7003f42e0e2d6062b3ec998095627dfa9dfe44aec8907489b5927c61b438d817a7070380d75799e7b3220865610725e49c90d983e534f548e3ef3a45d6"
 
+[update]
 [update.modrinth]
-mod-id = 'JzgNbcKE'
-version = 'J9qH2IC8'
-
-[[x-prismlauncher-dependencies]]
-addonId = 'u6dRKJwZ'
-type = 'OPTIONAL'
-
-[[x-prismlauncher-dependencies]]
-addonId = '5sy6g3kz'
-type = 'OPTIONAL'
-
-[[x-prismlauncher-dependencies]]
-addonId = 'kkmrDlKT'
-type = 'REQUIRED'
-
-[[x-prismlauncher-dependencies]]
-addonId = '8BmcQJ2H'
-type = 'REQUIRED'
-
-[[x-prismlauncher-dependencies]]
-addonId = 'vvuO3ImH'
-type = 'REQUIRED'
+mod-id = "JzgNbcKE"
+version = "J9qH2IC8"

@@ -1,17 +1,13 @@
-filename = 'supplementaries-1.20-3.1.45-forge.jar'
-name = 'Supplementaries'
-side = 'both'
+name = "Supplementaries"
+filename = "supplementaries-1.20-3.1.45-forge.jar"
+side = "both"
 
 [download]
-hash = 'c36348069266890b8476e515bd44a571c6632a406a61b2d2e4fc121fd47fdbb2127e28dbffc8dff0242b8e2dea1968e64c68a370408aee9d090b26070e767bdf'
-hash-format = 'sha512'
-mode = 'url'
-url = 'https://cdn.modrinth.com/data/fFEIiSDQ/versions/geO7x6Vi/supplementaries-1.20-3.1.45-forge.jar'
+hash-format = "sha1"
+hash = "cca362c149570e3926aac82be199d66aaf94928a"
+mode = "metadata:curseforge"
 
-[update.modrinth]
-mod-id = 'fFEIiSDQ'
-version = 'geO7x6Vi'
-
-[[x-prismlauncher-dependencies]]
-addonId = 'twkfQtEc'
-type = 'REQUIRED'
+[update]
+[update.curseforge]
+file-id = 9635391
+project-id = 412082

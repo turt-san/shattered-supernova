@@ -1,17 +1,13 @@
-filename = 'particular-1.20.1-Forge-1.6.1.jar'
-name = 'Particular ✨ Reforged'
-side = 'client'
+name = "Particular ✨ Reforged"
+filename = "particular-1.20.1-Forge-1.6.1.jar"
+side = "client"
 
 [download]
-hash = 'b808353a0558eb267fd81269906b243eb1b7af68a92141ad1c86b8691b0082a680759921301433b19b4bba5d3ee0378880063f2d5322dbd0cf11d0a92b5bcd9c'
-hash-format = 'sha512'
-mode = 'url'
-url = 'https://cdn.modrinth.com/data/pYFUU6cq/versions/mc1iueNJ/particular-1.20.1-Forge-1.6.1.jar'
+url = "https://cdn.modrinth.com/data/pYFUU6cq/versions/mc1iueNJ/particular-1.20.1-Forge-1.6.1.jar"
+hash-format = "sha512"
+hash = "b808353a0558eb267fd81269906b243eb1b7af68a92141ad1c86b8691b0082a680759921301433b19b4bba5d3ee0378880063f2d5322dbd0cf11d0a92b5bcd9c"
 
+[update]
 [update.modrinth]
-mod-id = 'pYFUU6cq'
-version = 'mc1iueNJ'
-
-[[x-prismlauncher-dependencies]]
-addonId = 'JaCEZUhg'
-type = 'OPTIONAL'
+mod-id = "pYFUU6cq"
+version = "mc1iueNJ"

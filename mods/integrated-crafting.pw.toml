@@ -1,21 +1,13 @@
-filename = 'IntegratedCrafting-1.20.1-1.4.11.jar'
-name = ' Integrated Crafting'
-side = 'both'
+name = " Integrated Crafting"
+filename = "IntegratedCrafting-1.20.1-1.4.11.jar"
+side = "both"
 
 [download]
-hash = '2d576e2d4d4690f3481f16a73c6c42be854b1df35f825af5f780cdd8a189cf408e6d76c65aa560ddac16eda6766f8d194892ceb1f080ab41c4da3ee0cae97477'
-hash-format = 'sha512'
-mode = 'url'
-url = 'https://cdn.modrinth.com/data/qwpACdla/versions/f6Fn0R5U/IntegratedCrafting-1.20.1-1.4.11.jar'
+url = "https://cdn.modrinth.com/data/qwpACdla/versions/f6Fn0R5U/IntegratedCrafting-1.20.1-1.4.11.jar"
+hash-format = "sha512"
+hash = "2d576e2d4d4690f3481f16a73c6c42be854b1df35f825af5f780cdd8a189cf408e6d76c65aa560ddac16eda6766f8d194892ceb1f080ab41c4da3ee0cae97477"
 
+[update]
 [update.modrinth]
-mod-id = 'qwpACdla'
-version = 'f6Fn0R5U'
-
-[[x-prismlauncher-dependencies]]
-addonId = 'Z9DM0LJ4'
-type = 'REQUIRED'
-
-[[x-prismlauncher-dependencies]]
-addonId = 'yYzdQHJI'
-type = 'REQUIRED'
+mod-id = "qwpACdla"
+version = "f6Fn0R5U"

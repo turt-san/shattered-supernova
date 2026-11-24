@@ -1,17 +1,13 @@
-filename = 'incontrol-1.20-9.5.1.jar'
-name = 'In Control!'
-side = 'both'
+name = "In Control!"
+filename = "incontrol-1.20-9.5.1.jar"
+side = "both"
 
 [download]
-hash = '7c3a7db69e57a7645c00d74b17089fb9c4050f75bddc653e499148273d2c253fee29ddb81e43a095d1019038bb053fccaf1066821af46fff88caad74deb037a4'
-hash-format = 'sha512'
-mode = 'url'
-url = 'https://cdn.modrinth.com/data/KpICtuVx/versions/gkF4yuGW/incontrol-1.20-9.5.1.jar'
+url = "https://cdn.modrinth.com/data/KpICtuVx/versions/gkF4yuGW/incontrol-1.20-9.5.1.jar"
+hash-format = "sha512"
+hash = "7c3a7db69e57a7645c00d74b17089fb9c4050f75bddc653e499148273d2c253fee29ddb81e43a095d1019038bb053fccaf1066821af46fff88caad74deb037a4"
 
+[update]
 [update.modrinth]
-mod-id = 'KpICtuVx'
-version = 'gkF4yuGW'
-
-[[x-prismlauncher-dependencies]]
-addonId = '8VDCUS3b'
-type = 'OPTIONAL'
+mod-id = "KpICtuVx"
+version = "gkF4yuGW"
