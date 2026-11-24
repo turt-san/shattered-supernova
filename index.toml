@@ -1,10 +1,6 @@
 hash-format = "sha256"
 
 [[files]]
-file = ".github/workflows/packwiz-refresh.yml"
-hash = "357446d3c74f15b47b54f4d6cd4c00748a4551575c07e52e2264faaff364bf52"
-
-[[files]]
 file = "config/connectivity.json"
 hash = "6a9b1f7858c7ef71f9797a0b95844f41bd2deeaf4e17285c5288d49002b1c144"
 preserve = true
