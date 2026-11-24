@@ -114,11 +114,6 @@ hash = "33ddaf36a14ddd05dcb011d85b7aa2ff4e496540e3b1fbd4ec75c1284f321f2f"
 metafile = true
 
 [[files]]
-file = "mods/avalonbase.pw.toml"
-hash = "3366f8ff3f467102cc55593f1f7a961bedeaaa7c9a443cd5d428220b33a1a936"
-metafile = true
-
-[[files]]
 file = "mods/baguettelib.pw.toml"
 hash = "f9129737a2d0e9c1ae7138ea7dda83847f884173603c855be16d1b10727db137"
 metafile = true
