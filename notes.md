@@ -1,6 +1,7 @@
 sd -A to remove newlines
 Goes into the instance launch options
 
+`https://<username>.github.io/<repo-name>/pack.toml`
 ```sh
 "$INST_JAVA" -jar packwiz-installer-bootstrap.jar https://githubusercontent.com/<YOUR_USER>/<YOUR_REPO>/main/pack.toml
 ```
