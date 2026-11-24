@@ -635,7 +635,7 @@ metafile = true
 
 [[files]]
 file = "mods/immediatelyfast.pw.toml"
-hash = "35fc1e99842109b684c9ebf468231eef72a09831825da87ec97ad4e6d7a749a6"
+hash = "835bd8b05a05ce6c0981ddc37c49e4c476aa0414cc2a5321fd9f8994193b6feb"
 metafile = true
 
 [[files]]
@@ -720,7 +720,7 @@ metafile = true
 
 [[files]]
 file = "mods/item-descriptions.pw.toml"
-hash = "63df8f79c1c239a0500e4fe37b98963e44a5a715aa10d4fa2fb2e82440ba12e5"
+hash = "dce5f22b51b009919060d4bfe5cdd0d93e10d4b92e8904fc9e517f41b5c602ab"
 metafile = true
 
 [[files]]
@@ -920,7 +920,7 @@ metafile = true
 
 [[files]]
 file = "mods/moreleads.pw.toml"
-hash = "24fc26dc17afa787af5d2711d7a7fcd5729b27935fde61f6f54551171b7edf9f"
+hash = "d069c997b1fb0dafe1cdc7307b54431f70316d536243a0878944479ddba24c89"
 metafile = true
 
 [[files]]
@@ -1360,7 +1360,7 @@ metafile = true
 
 [[files]]
 file = "mods/underground-rivers.pw.toml"
-hash = "6b079261b7dd2fed4e163d7f5f79f0934e19fe4a1a87a013326e569848eb5ff1"
+hash = "191fa5df4cffa6749701f65dde920113ada74812953be01ff1750ac43ffa10a4"
 metafile = true
 
 [[files]]

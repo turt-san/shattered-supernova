@@ -1,13 +1,13 @@
-filename = 'underground-rivers-1.0.1-forge-1.20.1.jar'
-name = 'Underground Rivers'
-side = 'both'
+name = "Underground Rivers"
+filename = "underground_rivers_1.0.0.jar"
+side = "both"
 
 [download]
-hash = '1523009bbc9d27022901356265f814b5e9854612e60f56fd597bdfde2d568b12a381460643f4c63e09397f0d77ec73a872abd39a908e8ad5b6f1901130b76a28'
-hash-format = 'sha512'
-mode = 'url'
-url = 'https://cdn.modrinth.com/data/Y7J94SaP/versions/JvPEMMZv/underground-rivers-1.0.1-forge-1.20.1.jar'
+url = "https://cdn.modrinth.com/data/Y7J94SaP/versions/SwU1G3Ua/underground_rivers_1.0.0.jar"
+hash-format = "sha512"
+hash = "c941a3ac61071bbac17f507654106fbc4af2fd9b60f1328cc5c8641991c157bae933c61251d4924b0861319e20f7a655207739a7613f9c7f37a0968215ca8da7"
 
+[update]
 [update.modrinth]
-mod-id = 'Y7J94SaP'
-version = 'JvPEMMZv'
+mod-id = "Y7J94SaP"
+version = "SwU1G3Ua"

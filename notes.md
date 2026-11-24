@@ -1,4 +1,11 @@
-sd -A to remove newlines
+```sh
+packwiz modrinth add "<paste-version-url-here>"
+# dont work
+packwiz modrinth add item-descriptions --version-filename "ItemDescriptions-forge-1.20.1-2.5.4.jar"
+packwiz modrinth add https://modrinth.com/mod/item-descriptions/version/2.5.4+1.20.1-forge
+packwiz modrinth add --project-id UaizcMKP --version-id LD1xqfoY
+packwiz pin item-descriptions
+```
 Goes into the instance launch options
 
 `https://<username>.github.io/<repo-name>/pack.toml`
