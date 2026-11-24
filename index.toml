@@ -480,7 +480,7 @@ metafile = true
 
 [[files]]
 file = "mods/eugenes-wealthy-plains-village.pw.toml"
-hash = "fa4b2a4e0f4f220ff4e891abdbc2151d4ff907da2960fa43d567832d6d566654"
+hash = "5bd226517443bfb093c0ab674ac0ab21fac15efe50ad27e284bb181387f21f18"
 metafile = true
 
 [[files]]
@@ -495,7 +495,7 @@ metafile = true
 
 [[files]]
 file = "mods/explorify.pw.toml"
-hash = "5ac20d59ecab004ca21b7e100b746aef1a7ed2743879c92b2fc5b2da0b928113"
+hash = "133a8fa53146424351e19d604b1d47a100797a3361b8cb3c2ee8971ee84f63b4"
 metafile = true
 
 [[files]]
@@ -605,7 +605,7 @@ metafile = true
 
 [[files]]
 file = "mods/hobbit-hill-village.pw.toml"
-hash = "87e9c9b3a6be1bec84746681b24ebb7828b7ac5310cff7d8b732bf7c11900af9"
+hash = "d6ad943ddc3510e140900a4e2c107a127c6e44949882e12b23f5b5e2a43964ba"
 metafile = true
 
 [[files]]
@@ -1275,12 +1275,12 @@ metafile = true
 
 [[files]]
 file = "mods/structures-mod.pw.toml"
-hash = "0310f326f82428319471ff0e35cbf41600cf387e15bd5c5d25c0ad0b8c3dd86e"
+hash = "ebe48ba5c8f26e508928fe26af82913883bb671c4368043784cce3070f73cd89"
 metafile = true
 
 [[files]]
 file = "mods/structures-pluss.pw.toml"
-hash = "58a1faaa224ccefac2d7c046cc9775eb5ad1c60ccc79ea80550d0d33bd416648"
+hash = "56d04347dc272b7e318d4c26f1375e76745513214a241ab0448f49ab86c932f3"
 metafile = true
 
 [[files]]
@@ -1440,7 +1440,7 @@ metafile = true
 
 [[files]]
 file = "mods/wild-and-wild-medicine.pw.toml"
-hash = "46ee669cdcfe7d7ce858921e6ac6d0a9effe861f95463f675df8edb0db49efa8"
+hash = "d7ca477cf37dbcae33e35ebf31f96a5b6f51fc87c7a5adab51ce05f6dc7fe526"
 metafile = true
 
 [[files]]
