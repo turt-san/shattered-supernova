@@ -1,11 +1,6 @@
 filename = 'greek_villager_house-1.0.0-forge-1.20.1.jar'
 name = 'Greek Villager House'
 side = 'both'
-x-prismlauncher-dependencies = []
-x-prismlauncher-loaders = [ 'forge' ]
-x-prismlauncher-mc-versions = [ '1.20.1' ]
-x-prismlauncher-release-type = 'release'
-x-prismlauncher-version-number = 'greek_villager_house-1.0.0-forge-1.20.1.jar'
 
 [download]
 hash = '848fa2b34de2c44bb9a97021785e28bc39ed5abf'

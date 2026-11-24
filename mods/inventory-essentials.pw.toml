@@ -1,11 +1,6 @@
 filename = 'inventoryessentials-forge-1.20.1-8.2.19.jar'
 name = 'Inventory Essentials'
 side = 'both'
-x-prismlauncher-dependencies = []
-x-prismlauncher-loaders = [ 'forge' ]
-x-prismlauncher-mc-versions = [ '1.20.1' ]
-x-prismlauncher-release-type = 'release'
-x-prismlauncher-version-number = '8.2.19+forge-1.20.1'
 
 [download]
 hash = '99e91e49ddd6f07d3a7f2c8ea0965ed983823dd7ac24959c19220afcd75642a924cdfe7890499f3c88a0861651acdc897e6d0e3d5f33455e738f0d24ea738487'

@@ -1,11 +1,6 @@
 filename = 'FarmersStructures-1.0.4-1.20.jar'
 name = 'Aures - Farmers Structures'
 side = 'both'
-x-prismlauncher-dependencies = []
-x-prismlauncher-loaders = [ 'forge' ]
-x-prismlauncher-mc-versions = [ '1.20', '1.20.1', '1.20.2', '1.20.3', '1.20.4', '1.20.5', '1.20.6' ]
-x-prismlauncher-release-type = 'release'
-x-prismlauncher-version-number = '1.0.4'
 
 [download]
 hash = 'cbfd88f81f4177933f81a63200c4b7f9a470967a6aeb3994af44de6869387c58775615b7f24fb0e54a6acdfc60302e6f59ac0e6e66f1a21d164673d6ef5950b5'

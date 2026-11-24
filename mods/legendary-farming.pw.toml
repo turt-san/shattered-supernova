@@ -1,11 +1,6 @@
 filename = 'legendary_farming-1.20.1-1.7.0.jar'
 name = 'Legendary Farming'
 side = 'both'
-x-prismlauncher-dependencies = []
-x-prismlauncher-loaders = [ 'forge' ]
-x-prismlauncher-mc-versions = [ '1.20.1' ]
-x-prismlauncher-release-type = 'release'
-x-prismlauncher-version-number = '1.7.0'
 
 [download]
 hash = 'a5b2b320ebd225830f63b633ad2acfeeaa836dcf9e2760897a9cf17884a8462a8f9062539bc08ae63aa9bba961ea93f7c031bdf9a9f97716b05a7fdcf67222de'

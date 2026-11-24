@@ -1,10 +1,6 @@
 filename = 'RoughlyEnoughItems-12.1.785-forge.jar'
 name = 'Roughly Enough Items (REI)'
 side = 'both'
-x-prismlauncher-loaders = [ 'forge' ]
-x-prismlauncher-mc-versions = [ '1.20', '1.20.1' ]
-x-prismlauncher-release-type = 'beta'
-x-prismlauncher-version-number = '12.1.785+forge'
 
 [download]
 hash = 'c229232ce96368e16631ac0557caa2b14f3ee2c5d587241da7889b142aecb61eb68dd400f60f368951ffc741f2d375732daf2bf5a46ced239a6e4bb692066110'

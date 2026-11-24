@@ -1,11 +1,6 @@
 filename = 'cotw-forge-1.20.1-1.0.0.jar'
 name = 'Curse Of The Warden'
 side = 'both'
-x-prismlauncher-dependencies = []
-x-prismlauncher-loaders = [ 'forge' ]
-x-prismlauncher-mc-versions = [ '1.20.1' ]
-x-prismlauncher-release-type = 'release'
-x-prismlauncher-version-number = '1.0.0+1.20.1'
 
 [download]
 hash = '690f59fab7b2c082fafcca6df86c6002095bbf4d2c72a96622c22c730a35fed37f194940b5546c15dec472561231738f7070858b07c9d5311873f008fadfcb34'

@@ -1,10 +1,6 @@
 filename = 'spell_descriptions-1.20.1-1.0.0.jar'
 name = 'Spell Descriptions (ISS)'
 side = 'both'
-x-prismlauncher-loaders = [ 'forge' ]
-x-prismlauncher-mc-versions = [ '1.20.1' ]
-x-prismlauncher-release-type = 'release'
-x-prismlauncher-version-number = 'SpellDescriptions-1.20.1-1.0.0.jar'
 
 [download]
 hash = 'f5b12afe2fd3e4e13eb9eaf114f194fa63e3221a'

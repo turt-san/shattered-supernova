@@ -1,11 +1,6 @@
 filename = 'origins-classes-forge-1.2.1.jar'
 name = 'Origins: Classes (Forge)'
 side = 'both'
-x-prismlauncher-dependencies = []
-x-prismlauncher-loaders = [ 'neoforge', 'forge' ]
-x-prismlauncher-mc-versions = [ '1.20.1' ]
-x-prismlauncher-release-type = 'release'
-x-prismlauncher-version-number = '1.2.1'
 
 [download]
 hash = '1588f53b340560445428599d230999b9e2bf39fa3f3dba97cfd586cb0ed933f488cb6a19a0da9ce4aa92c4e6fc42786f51c44048cc27e4855ead00a685bee031'

@@ -1,10 +1,6 @@
 filename = 'modulargolems-2.7.6.jar'
 name = 'Modular Golems'
 side = 'both'
-x-prismlauncher-loaders = [ 'neoforge', 'forge' ]
-x-prismlauncher-mc-versions = [ '1.20.1' ]
-x-prismlauncher-release-type = 'release'
-x-prismlauncher-version-number = 'modulargolems-2.7.6.jar'
 
 [download]
 hash = '336f8004f9adf1b8c26e48388b62d6a9e2c7dfc1'

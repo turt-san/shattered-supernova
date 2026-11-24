@@ -1,9 +1,6 @@
 filename = 'Structures-v4.6.jar'
 name = 'Structures'
 side = 'both'
-x-prismlauncher-dependencies = []
-x-prismlauncher-loaders = [ 'neoforge', 'forge', 'quilt', 'fabric' ]
-x-prismlauncher-mc-versions = [
     '1.20',
     '1.20.1',
     '1.20.2',
@@ -45,8 +42,6 @@ x-prismlauncher-mc-versions = [
     '26.4-snapshot-7',
     '26.4-snapshot-8'
 ]
-x-prismlauncher-release-type = 'release'
-x-prismlauncher-version-number = '4.6'
 
 [download]
 hash = '36a091268581e1347e2f34fb053428dacb603e1c0fe5c2a502f28b8bfca846037a0f87e76e37ea42a7ccac5373b336ab5bbbf0b5eab9fb29e059569c0bec420c'

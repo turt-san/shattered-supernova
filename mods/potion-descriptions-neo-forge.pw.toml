@@ -1,11 +1,6 @@
 filename = 'potiondescriptions-1.20.1-Forge-1.0.0.jar'
 name = 'Potion Descriptions [Neo/Forge]'
 side = 'both'
-x-prismlauncher-dependencies = []
-x-prismlauncher-loaders = [ 'neoforge', 'forge' ]
-x-prismlauncher-mc-versions = [ '1.20.1' ]
-x-prismlauncher-release-type = 'release'
-x-prismlauncher-version-number = 'potiondescriptions-1.20.1-Forge-1.0.0.jar'
 
 [download]
 hash = '09611489537e95add2f361e474738fabbef6e233'

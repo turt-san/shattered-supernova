@@ -1,11 +1,6 @@
 filename = 'millager-forge-1.20.1-0.7.7.jar'
 name = 'Millager (Village Defenders)'
 side = 'both'
-x-prismlauncher-dependencies = []
-x-prismlauncher-loaders = [ 'forge' ]
-x-prismlauncher-mc-versions = [ '1.20.1' ]
-x-prismlauncher-release-type = 'release'
-x-prismlauncher-version-number = '0.7.7-1.20.1-forge'
 
 [download]
 hash = '65bfc82b8cd1bfccfa96a2248d7173ffe4f4ecdb2389f3abd9d51c31ed42f8dc22955faeaea37ebb64a4115b10ddec8b49cfbfdf3da50fa456d365c6810f9a63'

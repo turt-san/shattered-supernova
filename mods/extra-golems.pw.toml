@@ -1,10 +1,6 @@
 filename = 'extragolems-20.1.0.2.jar'
 name = 'Extra Golems'
 side = 'both'
-x-prismlauncher-loaders = [ 'forge' ]
-x-prismlauncher-mc-versions = [ '1.20.1' ]
-x-prismlauncher-release-type = 'release'
-x-prismlauncher-version-number = 'Extra Golems 20.1.0.2'
 
 [download]
 hash = '5d70dbd7d0e6dedc95d51243866cfdb9127d20e6'

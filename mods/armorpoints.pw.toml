@@ -1,11 +1,6 @@
 filename = 'armorpointspp-forge-1.20-3.1.1.jar'
 name = 'Armor Points ++'
 side = 'client'
-x-prismlauncher-dependencies = []
-x-prismlauncher-loaders = [ 'forge' ]
-x-prismlauncher-mc-versions = [ '1.20', '1.20.1' ]
-x-prismlauncher-release-type = 'release'
-x-prismlauncher-version-number = 'forge-1.20-3.1.1'
 
 [download]
 hash = 'f878c66eea113f67fd2d9ae03038a33d679c60c554cc54c7fbb7a12c562a4ae632db72768f6fe22ce85d60c8e5e2847a44d0e9f938c5d2f99592b2e8d6e76164'

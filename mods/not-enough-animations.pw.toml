@@ -1,11 +1,6 @@
 filename = 'notenoughanimations-forge-1.12.7-mc1.20.1.jar'
 name = 'Not Enough Animations'
 side = 'client'
-x-prismlauncher-dependencies = []
-x-prismlauncher-loaders = [ 'forge' ]
-x-prismlauncher-mc-versions = [ '1.20.1' ]
-x-prismlauncher-release-type = 'release'
-x-prismlauncher-version-number = '1.12.7'
 
 [download]
 hash = 'fbbb1d48be8bcae77435a6102d1c12a0df156df79dd91de7d7d95e55f9cdfae2026b487fbff86b6ec78fcb487f921cd0ac14cff220a93a64618bbf554e789ace'

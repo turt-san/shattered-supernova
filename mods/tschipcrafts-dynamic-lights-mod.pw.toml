@@ -1,8 +1,6 @@
 filename = 'dynamiclights-v1.9-mc1.17-1.21.5-mod.jar'
 name = 'Dynamic Lights [Server] [Fabric/NeoForge]'
 side = 'both'
-x-prismlauncher-loaders = [ 'forge' ]
-x-prismlauncher-mc-versions = [
     '1.17-Snapshot',
     '1.17',
     '1.17.1',
@@ -41,8 +39,6 @@ x-prismlauncher-mc-versions = [
     '1.21.5-Snapshot',
     '1.21.5'
 ]
-x-prismlauncher-release-type = 'release'
-x-prismlauncher-version-number = 'Release v1.9 for Forge'
 
 [download]
 hash = 'b90e19d06788a0c2bc8551b7e0e7dd49e67b3b16'

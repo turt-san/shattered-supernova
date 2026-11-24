@@ -1,11 +1,6 @@
 filename = 'Pehkui-3.8.2+1.20.1-forge.jar'
 name = 'Pehkui'
 side = 'both'
-x-prismlauncher-dependencies = []
-x-prismlauncher-loaders = [ 'neoforge', 'forge' ]
-x-prismlauncher-mc-versions = [ '1.20.1' ]
-x-prismlauncher-release-type = 'release'
-x-prismlauncher-version-number = '3.8.2+1.20.1-forge'
 
 [download]
 hash = 'e4660f0b5af6bfe2902ab39a6fbfa911856e0567bffc47842b482731da373afa4424b9e7cf47c61a0c2107445520475053709a6671d9eb4b7f4b55597729af3f'

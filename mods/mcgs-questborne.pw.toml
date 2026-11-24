@@ -1,11 +1,6 @@
 filename = 'questborne-1.0.0.jar'
 name = "MCG's Questborne"
 side = 'both'
-x-prismlauncher-dependencies = []
-x-prismlauncher-loaders = [ 'forge' ]
-x-prismlauncher-mc-versions = [ '1.20.1' ]
-x-prismlauncher-release-type = 'release'
-x-prismlauncher-version-number = '1.0.0'
 
 [download]
 hash = '20207b1dcbb42f74899b4c6a91de98d35bf9451f3c81aa4890bdd0b12b803e10a2648314e7e43eefa6940dca8dfde7336315a55c624e719151fabc838c752977'

@@ -1,11 +1,6 @@
 filename = 'villagesandpillages-forge-2.0.0+mc1.20.1.jar'
 name = 'Villages&Pillages'
 side = 'both'
-x-prismlauncher-dependencies = []
-x-prismlauncher-loaders = [ 'forge' ]
-x-prismlauncher-mc-versions = [ '1.20', '1.20.1' ]
-x-prismlauncher-release-type = 'release'
-x-prismlauncher-version-number = 'forge-2.0.0+mc1.20.1'
 
 [download]
 hash = '44c872fc8971c4a9d8484d10bb1ad73ba5f4ee783d7dae50c5b2b02315eb6801ccc9d9ade075689aeae5dbec963d77ec4761d77c36380e1c7ef34495f13e183f'

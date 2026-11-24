@@ -1,10 +1,6 @@
 filename = 'sophisticatedbackpacks-1.20.1-3.26.22.2264.jar'
 name = 'Sophisticated Backpacks'
 side = 'both'
-x-prismlauncher-loaders = [ 'neoforge', 'forge' ]
-x-prismlauncher-mc-versions = [ '1.20.1' ]
-x-prismlauncher-release-type = 'release'
-x-prismlauncher-version-number = 'sophisticatedbackpacks-1.20.1-3.26.22.2264.jar'
 
 [download]
 hash = '0942539932930b2f3ccf2e42cdbe5aad6dd1a7fd'

@@ -1,11 +1,6 @@
 filename = 'ancore-4.0.1-forge-1.20.1.jar'
 name = 'AnCore Lib'
 side = 'both'
-x-prismlauncher-dependencies = []
-x-prismlauncher-loaders = [ 'forge' ]
-x-prismlauncher-mc-versions = [ '1.20.1', '1.20.2', '1.20.3', '1.20.4', '1.20.5', '1.20.6' ]
-x-prismlauncher-release-type = 'release'
-x-prismlauncher-version-number = 'ancore-4.0.1-forge-1.20.1.jar'
 
 [download]
 hash = '787a8482dadcc9d3257efd5860ed22f6b797e7b3'

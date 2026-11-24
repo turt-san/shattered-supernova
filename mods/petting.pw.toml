@@ -1,11 +1,6 @@
 filename = 'petting-5.0.3-forge-1.20.1.jar'
 name = 'Petting - Tame any mob!'
 side = 'both'
-x-prismlauncher-dependencies = []
-x-prismlauncher-loaders = [ 'forge' ]
-x-prismlauncher-mc-versions = [ '1.20.1' ]
-x-prismlauncher-release-type = 'release'
-x-prismlauncher-version-number = '5.0.3'
 
 [download]
 hash = '64f24c70bf496e021eb99a1af767a6ba4bc61598c44001a1f2afb5be62639db0902606c92fb4dd4e6f5704004a8954ab13369c2e51168dd6620ba75ae70e883a'

@@ -1,11 +1,6 @@
 filename = 'inventorysorter-1.20.1-23.0.11.jar'
 name = 'Inventory Sorter'
 side = 'both'
-x-prismlauncher-dependencies = []
-x-prismlauncher-loaders = [ 'forge' ]
-x-prismlauncher-mc-versions = [ '1.20.1' ]
-x-prismlauncher-release-type = 'release'
-x-prismlauncher-version-number = 'inventorysorter-1.20.1-23.0.11.jar'
 
 [download]
 hash = 'fe77bda0f98df034f00ecdcb9537b31bf3800477'

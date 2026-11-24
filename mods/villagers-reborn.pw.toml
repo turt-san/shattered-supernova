@@ -1,11 +1,6 @@
 filename = 'villagersreborn-1.0.9b.jar'
 name = 'Villagers Reborn'
 side = 'both'
-x-prismlauncher-dependencies = []
-x-prismlauncher-loaders = [ 'forge' ]
-x-prismlauncher-mc-versions = [ '1.20.1' ]
-x-prismlauncher-release-type = 'release'
-x-prismlauncher-version-number = '1.0.9b'
 
 [download]
 hash = 'dc34ec6bb0ae00bf13c614d49050e7fb47d56b6e929a88156e35a42db763584a40b97b12b067224d5ef81dbf27aab65b797cb7de2d3898b1994ae3a80b5040ec'

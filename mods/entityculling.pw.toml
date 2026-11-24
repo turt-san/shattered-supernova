@@ -1,11 +1,6 @@
 filename = 'entityculling-forge-1.12.2-mc1.20.1.jar'
 name = 'Entity Culling'
 side = 'client'
-x-prismlauncher-dependencies = []
-x-prismlauncher-loaders = [ 'forge' ]
-x-prismlauncher-mc-versions = [ '1.20.1' ]
-x-prismlauncher-release-type = 'release'
-x-prismlauncher-version-number = '1.12.2'
 
 [download]
 hash = 'f1d419e2c252de3be766fa11cd8a4a489cd89f8923ee976c4bd736ff46ec149c0fe3a34e47998087f34df896e30773ddfa84ffa32aaa0da3b2217a7bd1cc8736'

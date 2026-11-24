@@ -1,11 +1,6 @@
 filename = 'weapon-0.1.5-forge-1.20.1.jar'
 name = 'Kind of Nice Weapon'
 side = 'both'
-x-prismlauncher-dependencies = []
-x-prismlauncher-loaders = [ 'forge' ]
-x-prismlauncher-mc-versions = [ '1.20.1' ]
-x-prismlauncher-release-type = 'beta'
-x-prismlauncher-version-number = 'weapon-0.1.5-forge-1.20.1.jar'
 
 [download]
 hash = 'fc63e9d1820e37821712a64605a83a73e6c35489'

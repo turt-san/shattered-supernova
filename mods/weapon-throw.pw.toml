@@ -1,11 +1,6 @@
 filename = 'weaponthrow-1.20.1-6.0-beta.1.jar'
 name = 'Weapon Throw'
 side = 'both'
-x-prismlauncher-dependencies = []
-x-prismlauncher-loaders = [ 'neoforge', 'forge' ]
-x-prismlauncher-mc-versions = [ '1.20.1' ]
-x-prismlauncher-release-type = 'beta'
-x-prismlauncher-version-number = 'weaponthrow-1.20.1-6.0-beta.1.jar'
 
 [download]
 hash = '285f9eda9f666cd670e50f6256a77a47fbf82394'

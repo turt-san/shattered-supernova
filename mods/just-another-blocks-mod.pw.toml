@@ -1,10 +1,6 @@
 filename = 'justanotherblocksmod-1.3.2-1.20.1FORGE.jar'
 name = 'Just Some More Blocks'
 side = 'both'
-x-prismlauncher-loaders = [ 'forge' ]
-x-prismlauncher-mc-versions = [ '1.20.1' ]
-x-prismlauncher-release-type = 'release'
-x-prismlauncher-version-number = 'justanotherblocksmod-1.3.2-1.20.1FORGE.jar'
 
 [download]
 hash = 'feec76b7a661e730261138744c0bddcc7741ddad'

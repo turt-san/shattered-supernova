@@ -1,10 +1,6 @@
 filename = 'lootintegrations-1.20.1-4.9.jar'
 name = 'Loot Integrations'
 side = 'both'
-x-prismlauncher-loaders = [ 'neoforge', 'forge' ]
-x-prismlauncher-mc-versions = [ '1.20.1' ]
-x-prismlauncher-release-type = 'release'
-x-prismlauncher-version-number = 'lootintegrations-1.20.1-4.9.jar'
 
 [download]
 hash = '846525ef140c2e7c01cb1286265125c6f266ea3e'

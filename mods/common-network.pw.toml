@@ -1,11 +1,6 @@
 filename = 'common-networking-forge-1.0.6-1.20.1.jar'
 name = 'Common Network'
 side = 'both'
-x-prismlauncher-dependencies = []
-x-prismlauncher-loaders = [ 'forge' ]
-x-prismlauncher-mc-versions = [ '1.20.1' ]
-x-prismlauncher-release-type = 'release'
-x-prismlauncher-version-number = 'common-networking-forge-1.0.6-1.20.1'
 
 [download]
 hash = '28c3ffcdec0f39fd91937df203a93de1e6268788'
