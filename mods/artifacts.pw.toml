@@ -1,0 +1,29 @@
+filename = 'artifacts-forge-9.5.20.jar'
+name = 'Artifacts'
+side = 'both'
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = '9.5.20'
+
+[download]
+hash = 'd3d95d6ef25deed30038a61c087cdb73164c5383eeea78f826300f8a9c3e7c86ac58a67f30b2545c087017c4e8bcbe4d3a641d23fa0614dde646e1f5fd985fe0'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/P0Mu4wcQ/versions/wvGxoBog/artifacts-forge-9.5.20.jar'
+
+[update.modrinth]
+mod-id = 'P0Mu4wcQ'
+version = 'wvGxoBog'
+
+[[x-prismlauncher-dependencies]]
+addonId = 'lhGA9TYQ'
+type = 'REQUIRED'
+
+[[x-prismlauncher-dependencies]]
+addonId = 'vvuO3ImH'
+type = 'REQUIRED'
+
+[[x-prismlauncher-dependencies]]
+addonId = '9s6osm5g'
+type = 'REQUIRED'

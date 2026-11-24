@@ -1,0 +1,18 @@
+filename = 'MoreLeads-forge-1.20.1-1.3.0.jar'
+name = 'MoreLeads'
+side = 'both'
+x-prismlauncher-dependencies = []
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.20', '1.20.1', '1.20.2', '1.20.3', '1.20.4', '1.20.5', '1.20.6' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = '1.3.0'
+
+[download]
+hash = '3a17e599c98baf80da8fdc9eaac6e33b70650ac5a5e39ebac507695dd8a4c9586fe69ce1c63aac58ecf62468f35913eec68abb7e55a703ea9e3388524e1341db'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/htaRjgnu/versions/Se0qQtZw/MoreLeads-forge-1.20.1-1.3.0.jar'
+
+[update.modrinth]
+mod-id = 'htaRjgnu'
+version = 'Se0qQtZw'

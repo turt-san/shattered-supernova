@@ -1,0 +1,20 @@
+filename = 'structureessentials-1.20.1-5.1.jar'
+name = 'Structure Essentials'
+side = 'both'
+x-prismlauncher-loaders = [ 'neoforge', 'forge' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'structureessentials-1.20.1-5.1.jar'
+
+[download]
+hash = 'a902167c4c3009d7271f60708b9f29f5d6a9a4ca'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+
+[update.curseforge]
+file-id = 9278573
+project-id = 832882
+
+[[x-prismlauncher-dependencies]]
+addonId = '326652'
+type = 'REQUIRED'

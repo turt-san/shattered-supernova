@@ -1,0 +1,68 @@
+filename = 'reverseeon-1.20.1-1.1.7-1.jar'
+name = 'Reverse Eon'
+side = 'both'
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'reverseeon-1.20.1-1.1.7-1.jar'
+
+[download]
+hash = 'f4fed33fe6694d8562054d4bbfe6412114939926'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+
+[update.curseforge]
+file-id = 9018615
+project-id = 1558236
+
+[[x-prismlauncher-dependencies]]
+addonId = '897116'
+type = 'REQUIRED'
+
+[[x-prismlauncher-dependencies]]
+addonId = '581495'
+type = 'OPTIONAL'
+
+[[x-prismlauncher-dependencies]]
+addonId = '388172'
+type = 'REQUIRED'
+
+[[x-prismlauncher-dependencies]]
+addonId = '328085'
+type = 'REQUIRED'
+
+[[x-prismlauncher-dependencies]]
+addonId = '412082'
+type = 'REQUIRED'
+
+[[x-prismlauncher-dependencies]]
+addonId = '844662'
+type = 'OPTIONAL'
+
+[[x-prismlauncher-dependencies]]
+addonId = '1060324'
+type = 'OPTIONAL'
+
+[[x-prismlauncher-dependencies]]
+addonId = '855414'
+type = 'REQUIRED'
+
+[[x-prismlauncher-dependencies]]
+addonId = '1594259'
+type = 'OPTIONAL'
+
+[[x-prismlauncher-dependencies]]
+addonId = '895919'
+type = 'REQUIRED'
+
+[[x-prismlauncher-dependencies]]
+addonId = '908741'
+type = 'OPTIONAL'
+
+[[x-prismlauncher-dependencies]]
+addonId = '896746'
+type = 'REQUIRED'
+
+[[x-prismlauncher-dependencies]]
+addonId = '568563'
+type = 'OPTIONAL'

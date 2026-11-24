@@ -1,0 +1,25 @@
+filename = 'item-descriptions-2.5.4+1.20.1-forge.jar'
+name = 'Item Descriptions'
+side = 'client'
+x-prismlauncher-loaders = [ 'neoforge', 'forge' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = '2.5.4+1.20.1-forge'
+
+[download]
+hash = '225d97a1a3decfeee8f542db3a5b32a9505a40eaf0a7fb514b0fadb4f4e319d04658d1e1da208cbac2070be3f7b630134cac2631604a811555c6c86d9412e9d8'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/UaizcMKP/versions/LD1xqfoY/item-descriptions-2.5.4%2B1.20.1-forge.jar'
+
+[update.modrinth]
+mod-id = 'UaizcMKP'
+version = 'LD1xqfoY'
+
+[[x-prismlauncher-dependencies]]
+addonId = '9s6osm5g'
+type = 'OPTIONAL'
+
+[[x-prismlauncher-dependencies]]
+addonId = 'nvQzSEkH'
+type = 'OPTIONAL'

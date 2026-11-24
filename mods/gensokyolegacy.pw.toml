@@ -1,0 +1,32 @@
+filename = 'gensokyolegacy-1.0.7.4-1.20.1.jar'
+name = 'Gensokyo Legacy'
+side = 'both'
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'gensokyolegacy-1.0.7.4-1.20.1.jar'
+
+[download]
+hash = 'c82b0d76ae5d97bc618ecb7e1d5e2cd1538f40e5'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+
+[update.curseforge]
+file-id = 9745894
+project-id = 1717216
+
+[[x-prismlauncher-dependencies]]
+addonId = '309927'
+type = 'REQUIRED'
+
+[[x-prismlauncher-dependencies]]
+addonId = '388172'
+type = 'REQUIRED'
+
+[[x-prismlauncher-dependencies]]
+addonId = '306770'
+type = 'REQUIRED'
+
+[[x-prismlauncher-dependencies]]
+addonId = '620203'
+type = 'REQUIRED'

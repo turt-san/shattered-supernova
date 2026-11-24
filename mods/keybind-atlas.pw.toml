@@ -1,0 +1,21 @@
+filename = 'KeybindAtlas-v3.0.0-mc1.20.1-forge.jar'
+name = 'Keybind Atlas'
+side = 'client'
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = '3.0.0'
+
+[download]
+hash = 'c15b76c1ad4b9e6b49fcac9f976e88c4d95c1e55fc49e26f4bdf3c42576b8d71fdf0dd6456fc319f25006a10d1ed7c36e9bd7cd8affae031388e231bc83faba0'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/fokFjwwh/versions/2aMeqSKJ/KeybindAtlas-v3.0.0-mc1.20.1-forge.jar'
+
+[update.modrinth]
+mod-id = 'fokFjwwh'
+version = '2aMeqSKJ'
+
+[[x-prismlauncher-dependencies]]
+addonId = 'qs2zRREk'
+type = 'OPTIONAL'

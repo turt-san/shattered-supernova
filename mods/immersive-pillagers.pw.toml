@@ -1,0 +1,18 @@
+filename = 'immersive_pillagers-forge-0.1.5+1.20.1.jar'
+name = 'Immersive Pillagers'
+side = 'both'
+x-prismlauncher-dependencies = []
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = '0.1.5+1.20.1'
+
+[download]
+hash = '9be34f9fc9e20f1d28f2e017ce9ec445a3086df495f5694a3369bdf68c3da1fd0abbb08bb975f151f1bbd86cffeafbff0ac9d4581e68426b21c2637a1ae078f3'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/oFiblXl3/versions/me4mNeFM/immersive_pillagers-forge-0.1.5%2B1.20.1.jar'
+
+[update.modrinth]
+mod-id = 'oFiblXl3'
+version = 'me4mNeFM'

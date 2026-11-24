@@ -1,0 +1,31 @@
+filename = 'twm-1.3.1-forge-1.20.1.jar'
+name = 'Tonic and Wild Medicine'
+side = 'both'
+x-prismlauncher-dependencies = []
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [
+    '1.20.1',
+    '1.21.1',
+    '1.21.2',
+    '1.21.3',
+    '1.21.4',
+    '1.21.5',
+    '1.21.6',
+    '1.21.7',
+    '1.21.8',
+    '1.21.9',
+    '1.21.10',
+    '1.21.11'
+]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = '1.3.1'
+
+[download]
+hash = '1ff8e230d95f7ab1ed9b05928de922d97802d1e61f5060b4418a85722791f35a992f7c02abf7551acdbb4168696bb3fd4e6b54f616394dd3a3de98581424a180'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/4W3JeAtd/versions/sKmnvIo2/twm-1.3.1-forge-1.20.1.jar'
+
+[update.modrinth]
+mod-id = '4W3JeAtd'
+version = 'sKmnvIo2'

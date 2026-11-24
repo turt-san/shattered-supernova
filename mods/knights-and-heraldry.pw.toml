@@ -1,0 +1,33 @@
+filename = 'knightsheraldry-forge-1.20.1-1.0.0-rev8.jar'
+name = 'Knights & Heraldry'
+side = 'both'
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = '1.0.0-rev8'
+
+[download]
+hash = 'c0b25a22a1c024c72d6f9bb89422fa1ab3cd208c44f925204d60584100955014e9f7974389b9d305d6502e191dc4485db1f7fa62b904358a17fe42ffd33c738f'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/wpvpnWUB/versions/Wi1fjMwL/knightsheraldry-forge-1.20.1-1.0.0-rev8.jar'
+
+[update.modrinth]
+mod-id = 'wpvpnWUB'
+version = 'Wi1fjMwL'
+
+[[x-prismlauncher-dependencies]]
+addonId = 'jtmvUHXj'
+type = 'REQUIRED'
+
+[[x-prismlauncher-dependencies]]
+addonId = '3qw6XSIX'
+type = 'REQUIRED'
+
+[[x-prismlauncher-dependencies]]
+addonId = '5sy6g3kz'
+type = 'OPTIONAL'
+
+[[x-prismlauncher-dependencies]]
+addonId = '8BmcQJ2H'
+type = 'REQUIRED'

@@ -1,0 +1,21 @@
+filename = 'seamless-2.2.2-forge-1.20.1.jar'
+name = 'Seamless'
+side = 'client'
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.20', '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = '2.2.2-forge-1.20.1'
+
+[download]
+hash = 'a87365690360167966b43c963a11018b6d1edc969bf758d9c55b34d799a074b4f09282b44bc79f1e879493d91c6300b18bb83cc6137da2a52688bd857c781606'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/rhyHyQke/versions/BcWF7G0E/seamless-2.2.2-forge-1.20.1.jar'
+
+[update.modrinth]
+mod-id = 'rhyHyQke'
+version = 'BcWF7G0E'
+
+[[x-prismlauncher-dependencies]]
+addonId = 'lhGA9TYQ'
+type = 'REQUIRED'

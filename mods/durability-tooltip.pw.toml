@@ -1,0 +1,21 @@
+filename = 'durabilitytooltip-1.2.0-forge-mc1.20.jar'
+name = 'Durability Tooltip'
+side = 'client'
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.20', '1.20.1', '1.20.2', '1.20.3', '1.20.4' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = '1.2.0-forge-mc1.20'
+
+[download]
+hash = 'bc80a7eb3089c44f5d79f77561491b532b71a50b8f8715de8216e1017260bdf2272f3aa320bbe5859cdfc531388f53a67af1d1ef14e93e4c92e66d26ffc685d2'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/smUP7V3r/versions/9fyihfLD/durabilitytooltip-1.2.0-forge-mc1.20.jar'
+
+[update.modrinth]
+mod-id = 'smUP7V3r'
+version = '9fyihfLD'
+
+[[x-prismlauncher-dependencies]]
+addonId = 'LN9BxssP'
+type = 'REQUIRED'

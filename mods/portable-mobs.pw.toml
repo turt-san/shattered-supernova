@@ -1,0 +1,20 @@
+filename = 'portablemobs-1.2.0-forge-mc1.20.jar'
+name = 'Portable Mobs'
+side = 'both'
+x-prismlauncher-loaders = [ 'neoforge', 'forge' ]
+x-prismlauncher-mc-versions = [ '1.20', '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'Portable Mobs 1.2.0 for Forge 1.20'
+
+[download]
+hash = '07dc1116273306d138928c0cf429bce38c191b2a'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+
+[update.curseforge]
+file-id = 4719266
+project-id = 503922
+
+[[x-prismlauncher-dependencies]]
+addonId = '454372'
+type = 'REQUIRED'

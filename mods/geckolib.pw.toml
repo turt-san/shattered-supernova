@@ -1,0 +1,18 @@
+filename = 'geckolib-forge-1.20.1-4.8.5.jar'
+name = 'Geckolib'
+side = 'both'
+x-prismlauncher-dependencies = []
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = '4.8.5'
+
+[download]
+hash = 'e0cbb601fd50ed489ba64771e230abd0176916637ac3df6100b528381e2fef47e4b969b077b31420c5486ecc18d7a3436370db29b006d78ed9ea068604d0616f'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/8BmcQJ2H/versions/dBtjgm8n/geckolib-forge-1.20.1-4.8.5.jar'
+
+[update.modrinth]
+mod-id = '8BmcQJ2H'
+version = 'dBtjgm8n'

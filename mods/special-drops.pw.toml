@@ -1,0 +1,17 @@
+filename = 'Special Drops 1.0.0 - 1.20.1.jar'
+name = 'Special Drops'
+side = 'both'
+x-prismlauncher-dependencies = []
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'Special Drops 1.0.0'
+
+[download]
+hash = '737765ad2c604d36aa5d1722f392899151846744'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+
+[update.curseforge]
+file-id = 5370841
+project-id = 610711

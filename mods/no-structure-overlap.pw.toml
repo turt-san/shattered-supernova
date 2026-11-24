@@ -1,0 +1,18 @@
+filename = 'nostructureoverlap v1.0 Forge.jar'
+name = 'No Structure Overlap'
+side = 'both'
+x-prismlauncher-dependencies = []
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = '1.0'
+
+[download]
+hash = '1df905b9019e51e8f3c1d885ec375fe6b53a392810bf03cc5927dea03642a9a299d96aa449c406e87932e3735e6df721ef8f13336e06cefe58dc81f9f32949e2'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/9ZMssTfl/versions/HGVnnLCI/nostructureoverlap v1.0 Forge.jar'
+
+[update.modrinth]
+mod-id = '9ZMssTfl'
+version = 'HGVnnLCI'

@@ -1,0 +1,21 @@
+filename = 'rustling_leaves-forge-1.20.1-2.8.3.jar'
+name = 'Rustling Leaves'
+side = 'both'
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = '2.8.3+1.20.1-forge'
+
+[download]
+hash = '42afb1431f415ef2fda573101a92c63e8dce606f24eba8fb37cb2a9e19ffb7c1060a745fe2f66fece3059ed81cea841c21cc23f235d76db3dd7d3395886352b5'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/Iawrz1d2/versions/QBiwgnqX/rustling_leaves-forge-1.20.1-2.8.3.jar'
+
+[update.modrinth]
+mod-id = 'Iawrz1d2'
+version = 'QBiwgnqX'
+
+[[x-prismlauncher-dependencies]]
+addonId = 'e0bNACJD'
+type = 'OPTIONAL'

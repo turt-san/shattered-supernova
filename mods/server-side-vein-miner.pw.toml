@@ -1,0 +1,18 @@
+filename = 'svmm-1.20.1-2.0.0.2.jar'
+name = 'Server-side Vein Miner & Tunneler'
+side = 'both'
+x-prismlauncher-dependencies = []
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.20.1', '1.20.2', '1.20.3', '1.20.4', '1.20.5', '1.20.6' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = '1.20.1-2.0.0.2'
+
+[download]
+hash = '8c187d1556ab0f84d00c1ab297e026ac659a4623af71b668cf3259d59281d7cad96c1b7a5a14105ac4618fb7bd03d69a170e4399cdc7c3970c69ed3e0be4aa77'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/ejJQJnIT/versions/QX4MvrDT/svmm-1.20.1-2.0.0.2.jar'
+
+[update.modrinth]
+mod-id = 'ejJQJnIT'
+version = 'QX4MvrDT'

@@ -1,0 +1,18 @@
+filename = 'megasarms-1.1.2.jar'
+name = "Mega's Arms"
+side = 'both'
+x-prismlauncher-dependencies = []
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.20.1', '1.20.2', '1.20.3', '1.20.4', '1.20.5', '1.20.6' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = '1.1.2'
+
+[download]
+hash = '40de10953c2575c040ec2bf66d060dab1b6b49c0629b427f25b3f50cb5e3cd84d6951e581175fd0ed903d08f8545253726e3de50b918fb7525522e8e69c6f49b'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/pTRacP6L/versions/dRLP1aUO/megasarms-1.1.2.jar'
+
+[update.modrinth]
+mod-id = 'pTRacP6L'
+version = 'dRLP1aUO'

@@ -1,0 +1,18 @@
+filename = 'epicdeathscreen-forge-1.20.1-1.1.0-beta.2.jar'
+name = 'Epic Death Screen'
+side = 'both'
+x-prismlauncher-dependencies = []
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = '2.0'
+
+[download]
+hash = '01f185115164b90a5f8f778f61af45e70eef72789ba5cdff85ac16aa0f71f5d1db219209d03cfc5ace267f6ffe435923e62d130bb40db8d177a0d3dab1eafe52'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/NBq5BYpp/versions/df23lBd8/epicdeathscreen-forge-1.20.1-1.1.0-beta.2.jar'
+
+[update.modrinth]
+mod-id = 'NBq5BYpp'
+version = 'df23lBd8'

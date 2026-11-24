@@ -1,0 +1,18 @@
+filename = 'irons_spellbooks-1.20.1-3.16.4.jar'
+name = "Iron's Spells 'n Spellbooks"
+side = 'both'
+x-prismlauncher-dependencies = []
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = '1.20.1-3.16.4'
+
+[download]
+hash = 'c370a1d5f63a4d1b0fc6102acb01bde5af0512cc3aa8ef501f02c14b38ebc26eb12860dc1107b53128920b99919ffdd7850faffae2e4b3af3e16b243b16938f9'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/s4OWxYQQ/versions/cBUZsds9/irons_spellbooks-1.20.1-3.16.4.jar'
+
+[update.modrinth]
+mod-id = 's4OWxYQQ'
+version = 'cBUZsds9'

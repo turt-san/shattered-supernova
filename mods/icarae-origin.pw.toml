@@ -1,0 +1,25 @@
+filename = 'Icarae-Origin-Forge-1.2.0.jar'
+name = 'Icarae Origin'
+side = 'both'
+x-prismlauncher-loaders = [ 'neoforge', 'forge' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = '1.2.0+Forge'
+
+[download]
+hash = '01b007774e1b00ac21496d84528f515223b966d67099859dc189ca1c58ab3e892f3bd0497a7108db790dae9e6b0d014df14f58c7ce01f75a37b259a3ba60432f'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/XMwNnLZG/versions/Shh8bYUV/Icarae-Origin-Forge-1.2.0.jar'
+
+[update.modrinth]
+mod-id = 'XMwNnLZG'
+version = 'Shh8bYUV'
+
+[[x-prismlauncher-dependencies]]
+addonId = 'Dw7M6XKW'
+type = 'REQUIRED'
+
+[[x-prismlauncher-dependencies]]
+addonId = 'jl3m2lR9'
+type = 'REQUIRED'
