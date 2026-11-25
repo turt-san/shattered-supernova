@@ -429,6 +429,11 @@ hash = "e4a65e6e67523dab2e57e6070f8089bacda68bf39bc68c9afd264c115421066d"
 metafile = true
 
 [[files]]
+file = "mods/easy-villagers.pw.toml"
+hash = "a65613e31ab6db637264a3988a390af659093d349b9a881c79222091461490d4"
+metafile = true
+
+[[files]]
 file = "mods/effortless-building.pw.toml"
 hash = "0e3def22e76a9965788fd338e12d53df65abce2d451a1a3e3f8f76e8166262d5"
 metafile = true
@@ -451,6 +456,11 @@ metafile = true
 [[files]]
 file = "mods/enchantment-descriptions.pw.toml"
 hash = "dbc04cf71baa724fea03c005d6d1513605aabd2089a0d167bbfe7d082f8da009"
+metafile = true
+
+[[files]]
+file = "mods/enderio.pw.toml"
+hash = "aa88a4e06b4bd9461dfd26466dc547648f6f741e3efdd30c597f5cdaf359cd87"
 metafile = true
 
 [[files]]
@@ -536,6 +546,11 @@ metafile = true
 [[files]]
 file = "mods/forgotten-blocks.pw.toml"
 hash = "3f279a2d74a8d774587af0e236fec7251b3db090af5b756ff152f2dac2bd2202"
+metafile = true
+
+[[files]]
+file = "mods/framedblocks.pw.toml"
+hash = "9fd68ed0b2b69ddabb1cc6c6c13251c4894a7a017cdd80032d92759954270e15"
 metafile = true
 
 [[files]]
@@ -660,7 +675,7 @@ metafile = true
 
 [[files]]
 file = "mods/immersive-ui.pw.toml"
-hash = "db67b75db18d2ce8bebe92b72f5d5a3f64de4077edfd4439e8f633517c6f53c1"
+hash = "9aa3cd7b6eea5e949aa1482ed5550660f9abd10920550967e4c3fd88a7113ecc"
 metafile = true
 
 [[files]]
@@ -1527,3 +1542,8 @@ metafile = true
 file = "mods/zeta.pw.toml"
 hash = "b43f507cffbcc7178b184fa63b2d74fc6b2b8103c4d299ec5633ccf1f5abdafb"
 metafile = true
+
+[[files]]
+file = "options.txt"
+hash = "91e863ef1e7ee48a09db3452482d24afd9b9e75489de6ed886570120ca3a05f4"
+preserve = true
