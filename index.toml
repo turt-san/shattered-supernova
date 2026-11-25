@@ -524,11 +524,6 @@ hash = "7244d4d2965b1966e3408890ea3b6ce334ae76cd591a7d4e8c50e76dff75facb"
 metafile = true
 
 [[files]]
-file = "mods/fights-frights.pw.toml"
-hash = "d6fdf7e9da97e68513a0ebbcc5957f3102b69f251ccd9c43d08fa613bd57d150"
-metafile = true
-
-[[files]]
 file = "mods/fix-gpu-memory-leak.pw.toml"
 hash = "ab52b9562726748e06be229fb23e5797fdf0efaa83f726a2bfe45ddaa83b5120"
 metafile = true
@@ -876,11 +871,6 @@ metafile = true
 [[files]]
 file = "mods/millager.pw.toml"
 hash = "14465e495b709f443d07e512d947b150b47e606f5a68602ebdbb925339c4fc29"
-metafile = true
-
-[[files]]
-file = "mods/minecraft-comes-alive-reborn.pw.toml"
-hash = "fd8c5e1a62d6af8e8f32c682d210e7c7f7963835d234aaa4d8c627cca8db8fb3"
 metafile = true
 
 [[files]]
