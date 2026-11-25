@@ -420,7 +420,7 @@ metafile = true
 
 [[files]]
 file = "mods/easy-mob-spawn-control.pw.toml"
-hash = "87ebf65067a164a73c6a0cccb82795beba740c0dfee79d842903c0b634e239fb"
+hash = "b7acb2a25eae6fac0bccd6b20f4f14c4bc79d9ed50bacd38d7a716568c5ac66b"
 metafile = true
 
 [[files]]
@@ -520,7 +520,7 @@ metafile = true
 
 [[files]]
 file = "mods/field-guide.pw.toml"
-hash = "7244d4d2965b1966e3408890ea3b6ce334ae76cd591a7d4e8c50e76dff75facb"
+hash = "990f9dd45ca9c615adf39459481818e8206266cc749729851079773e0a99ffb0"
 metafile = true
 
 [[files]]
@@ -880,12 +880,12 @@ metafile = true
 
 [[files]]
 file = "mods/modernfix.pw.toml"
-hash = "f53c8f69b724e209180dd2aa97b09643e827d4e55f0fd8726a4f1500245ababe"
+hash = "a67a03cbfc23d181392615d1af8313611b5e9a24df040fc1eab4553c0d17be9b"
 metafile = true
 
 [[files]]
 file = "mods/modulargolems.pw.toml"
-hash = "297b7ac97e04726db2816e64f331d0405f9eec2420ef6557b2341465bf9945d2"
+hash = "fb670aa60aa04b7a684019e5bacb86df39058baf005558d326830426b0b6715d"
 metafile = true
 
 [[files]]
@@ -1225,12 +1225,12 @@ metafile = true
 
 [[files]]
 file = "mods/sophisticated-core.pw.toml"
-hash = "0c4b113834dc795a4b25ae1788b70c66685ef147550e782c4001e2744cdad3b9"
+hash = "985e7b112e8a2f0f8b2d27ce8b20b95153fb902935bd1715143f7c8b298c04b0"
 metafile = true
 
 [[files]]
 file = "mods/sophisticated-storage.pw.toml"
-hash = "0b0449fd81f85b4a2974289e5047f83b78add477641b40dbadbe8c2b69a841ab"
+hash = "faece87110a9d3a90dc9e66818f48b060be72d7a9d2fb94a3098afdce0991c06"
 metafile = true
 
 [[files]]
