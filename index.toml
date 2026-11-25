@@ -354,6 +354,11 @@ hash = "fcd71c7680fcd729b676c15e1b17f7215683310f9dc1baf6eca58d7cc052472a"
 metafile = true
 
 [[files]]
+file = "mods/do-a-barrel-roll.pw.toml"
+hash = "53fd334af7b7c6ada2b3d15a8d666011c5b54bcfc5515e6ca2d13eeb3c286b0d"
+metafile = true
+
+[[files]]
 file = "mods/dungeon-now-loading.pw.toml"
 hash = "1a25256cd4bde18353553bd6a54b203d7756bd9eebf288a8f8af04013406bafa"
 metafile = true
