@@ -16,6 +16,10 @@ hash = "125922450693e51fbb9957c996aa58c7c86af34b2be9b3f7762c80309b2de724"
 preserve = true
 
 [[files]]
+file = "config/villagersreborn-server.toml"
+hash = "67aee1812f12ac57ab12dae435595db26acfbb7cedd60dc8867d515ed6a62f45"
+
+[[files]]
 file = "icon.png"
 hash = "e6a28a68a196940c91c28ee51863643fb688e2808469a722eafc99ae81e2f327"
 
