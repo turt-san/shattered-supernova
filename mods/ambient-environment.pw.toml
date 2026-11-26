@@ -1,12 +1,18 @@
-filename = 'AmbientEnvironment-forge-1.20.1-11.0.0.1.jar'
-name = 'Ambient Environment'
-side = 'both'
+name = "Ambient Environment"
+filename = "AmbientEnvironment-forge-1.20.1-11.0.0.1.jar"
+side = "client"
 
 [download]
-hash = '03c839b24e5a19f8225400be354f8ffd9572e47f'
-hash-format = 'sha1'
-mode = 'metadata:curseforge'
+url = "https://cdn.modrinth.com/data/DyTvM1dv/versions/BYzQMmi7/AmbientEnvironment-forge-1.20.1-11.0.0.1.jar"
+hash-format = "sha512"
+hash = "4ae07091f258c3378f5f55fe30c2d7cba6aaf49155c25fb3585d00486e8d965935f3ba8c9f070ef5393bca591c2df7a030893e1c350aeaae31881a05bb3e0f89"
 
-[update.curseforge]
-file-id = 4598390
-project-id = 320163
+[update]
+[update.modrinth]
+mod-id = "DyTvM1dv"
+version = "BYzQMmi7"
+
+[option]
+optional = true
+default = false
+description = ""

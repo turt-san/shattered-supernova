@@ -46,12 +46,12 @@ metafile = true
 
 [[files]]
 file = "mods/ambient-environment.pw.toml"
-hash = "d42322ded58d72e18f62b3665edc18c84fed3267aa3c2eca5a63c60c043e5111"
+hash = "1ce329a71163f3a9d518be2cd7e9a0bc25712af02e278b17d2698697024066bb"
 metafile = true
 
 [[files]]
 file = "mods/ambientsounds.pw.toml"
-hash = "d2465361aab788febe2b319413d169a28a7a8de84a7cc1da77e5489884917ea3"
+hash = "e99097ce4507b986310f12fc2b9567f489834bd1b4cdc455b3feabba771b1933"
 metafile = true
 
 [[files]]
@@ -670,11 +670,6 @@ hash = "61f3f2fb05ec53536c4d9c002257244b15598f0a9ad25552d91ac4a5352ff775"
 metafile = true
 
 [[files]]
-file = "mods/immersive-ores.pw.toml"
-hash = "e4d1951ee05973720ab635c8a2c39a8c5f9c0926878de3187791ce7a92d4d168"
-metafile = true
-
-[[files]]
 file = "mods/immersive-overlays.pw.toml"
 hash = "ddf9dd72cf0c0e889912b4bb523da300b5f3b0c076c719c044b6c8f53fc9a832"
 metafile = true
@@ -952,11 +947,6 @@ metafile = true
 [[files]]
 file = "mods/mp-moogs-paths.pw.toml"
 hash = "b713f2fb335fa2c076b24a744f12a5580fec1d00cb14c3209b8ce9d96362c92d"
-metafile = true
-
-[[files]]
-file = "mods/mrcrayfishs-furniture-mod-tools-refurbished.pw.toml"
-hash = "c8bef3ab64c3f9cb46579e41c2f133d855ac41a9d2eba37bbb55e383b37b2723"
 metafile = true
 
 [[files]]
