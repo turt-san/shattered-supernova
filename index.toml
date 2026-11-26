@@ -959,6 +959,11 @@ hash = "e05d0de4ee9cad958d7a14b1a9f4505fff33aeac38756c54509923b645505044"
 metafile = true
 
 [[files]]
+file = "mods/native-nicknames.pw.toml"
+hash = "281a5f230334b4fd94326150d78fa77d81542a895b268b0623352ee49e8d89f0"
+metafile = true
+
+[[files]]
 file = "mods/natures-compass.pw.toml"
 hash = "28cc9a5569f6f260b655e195e1b433999c61fec5a6773ea4bc47ba8dcc29b4c4"
 metafile = true
