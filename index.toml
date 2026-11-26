@@ -1557,3 +1557,7 @@ metafile = true
 file = "options.txt"
 hash = "91e863ef1e7ee48a09db3452482d24afd9b9e75489de6ed886570120ca3a05f4"
 preserve = true
+
+[[files]]
+file = "server-icon.png"
+hash = "bde1a6a3c5480c966150ad2762cd5c21337ae0ec9a9febd3865543ba6d28fa3f"
