@@ -6,6 +6,16 @@ hash = "6a9b1f7858c7ef71f9797a0b95844f41bd2deeaf4e17285c5288d49002b1c144"
 preserve = true
 
 [[files]]
+file = "config/millager.json"
+hash = "7c49dfce18f12d99d25e3ef464181e5d30e8e3b1a26703fd0216bccf038f52ee"
+preserve = true
+
+[[files]]
+file = "config/takesapillage-common.toml"
+hash = "aea27d8e2ff72867c88b17c74a63efe0f7e1e30cb04ddd8817bef33eedfcc7f5"
+preserve = true
+
+[[files]]
 file = "icon.png"
 hash = "e6a28a68a196940c91c28ee51863643fb688e2808469a722eafc99ae81e2f327"
 
