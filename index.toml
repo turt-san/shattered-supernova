@@ -6,10 +6,6 @@ hash = "6a9b1f7858c7ef71f9797a0b95844f41bd2deeaf4e17285c5288d49002b1c144"
 preserve = true
 
 [[files]]
-file = "git-notes.md"
-hash = "f252db3b6654b706ecadf1a511341f391336c6ad41eafaaad6ec08d80e9e08bf"
-
-[[files]]
 file = "icon.png"
 hash = "e6a28a68a196940c91c28ee51863643fb688e2808469a722eafc99ae81e2f327"
 
@@ -491,6 +487,11 @@ metafile = true
 [[files]]
 file = "mods/eugenes-wealthy-plains-village.pw.toml"
 hash = "5bd226517443bfb093c0ab674ac0ab21fac15efe50ad27e284bb181387f21f18"
+metafile = true
+
+[[files]]
+file = "mods/exp-counter.pw.toml"
+hash = "20c1950db22181a3b27742fd8ecde09429c9419b7fd2a0fb9e7c80a3ccfb4ba0"
 metafile = true
 
 [[files]]
