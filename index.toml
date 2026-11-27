@@ -224,6 +224,11 @@ hash = "a613f5d2df911fea606968bbdb56eebfd05ac02ada846cf0d2e56e72345d9338"
 metafile = true
 
 [[files]]
+file = "mods/champions-unofficial.pw.toml"
+hash = "11a379eceabbe6a04cda2bb6859610aa2da8995ff7733e8526ee65f452fcc64c"
+metafile = true
+
+[[files]]
 file = "mods/charm-of-undying.pw.toml"
 hash = "ca5edf85f25f07f04040b243e67ab3c8fd437ee5a2694d17ed4993d2f83d8812"
 metafile = true

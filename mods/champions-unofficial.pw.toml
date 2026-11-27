@@ -1,0 +1,13 @@
+name = "Champions Unofficial"
+filename = "champions-forge-20.1.1.6.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "31a9703c9d8e2f028d1572a72c8229e0d46eb146"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8825005
+project-id = 1074990
