@@ -115,7 +115,7 @@ metafile = true
 
 [[files]]
 file = "mods/attributefix.pw.toml"
-hash = "ddc1cbeb8eec3fe4ccd14809846ccc469530f0eca37c7d55dbfb82237140dc97"
+hash = "828d571a91296e2ee3be1ec509619ea01f6a61a03958461fbe543bd377daa194"
 metafile = true
 
 [[files]]
@@ -689,6 +689,11 @@ hash = "9aa3cd7b6eea5e949aa1482ed5550660f9abd10920550967e4c3fd88a7113ecc"
 metafile = true
 
 [[files]]
+file = "mods/improved-mobs.pw.toml"
+hash = "5aa379ba6fe1ebdda8bbe5f5af6a333cf9262ec63fd67ca41febcc885ac2d70f"
+metafile = true
+
+[[files]]
 file = "mods/in-control.pw.toml"
 hash = "bcde1ed5c0379b2f2d0fa0a7316c4e5c5fc2018490bc4d831bbfd3184f530760"
 metafile = true
@@ -1019,6 +1024,11 @@ hash = "d38cbc9694fd615ca5839e67a9070793c39f929ea55cc5af89cac46dd499e84a"
 metafile = true
 
 [[files]]
+file = "mods/passive-skill-tree.pw.toml"
+hash = "2ce53a704e67995bb5e9fbd42e59004e47ffc6487e2867131500dafd355b6b3e"
+metafile = true
+
+[[files]]
 file = "mods/patchouli.pw.toml"
 hash = "b2cb681aaf3e6085148392a06d40899239dc299aaf5ce0adf168fc225d922c97"
 metafile = true
@@ -1321,6 +1331,11 @@ metafile = true
 [[files]]
 file = "mods/tameable-golems.pw.toml"
 hash = "30cb0dc692333159acbaa30187f16c87353d8b8b77dd07e27f5b6ba923b6a33e"
+metafile = true
+
+[[files]]
+file = "mods/tenshilib.pw.toml"
+hash = "25ac4e21c8f32b8bc174037bb4a6b4e9ca7b03018de859596113022de4906036"
 metafile = true
 
 [[files]]
