@@ -1164,11 +1164,6 @@ hash = "c6c058d38f28313bfe5b09e9a894d31c01cec75ad793d31ff54f875df351d34a"
 metafile = true
 
 [[files]]
-file = "mods/scaling-health.pw.toml"
-hash = "00e900a45938d0a8d3255dc0c55f7d90ffc58dbc7e8677b68158a2a6f1603fd4"
-metafile = true
-
-[[files]]
 file = "mods/seamless-loading-screen.pw.toml"
 hash = "f464dafe774161371da450a2ea528564c664bccdddd0a0f4289883a6a58991ce"
 metafile = true
