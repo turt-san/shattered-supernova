@@ -44,6 +44,11 @@ hash = "327ae6465d0d39a9286dbc4cd267ccdf9c761290dca4f19d16b1e48b32dfa175"
 metafile = true
 
 [[files]]
+file = "mods/aeinfinitybooster.pw.toml"
+hash = "ee40ed5fd4dff41219d5feac131b201e652cc470f35e0c0a1b4af80b78bc3e85"
+metafile = true
+
+[[files]]
 file = "mods/alltheleaks.pw.toml"
 hash = "1c17e2dbce14c20ecbcbeb5d03676bafc68d2a2abe23cacae3920ba99b043737"
 metafile = true
