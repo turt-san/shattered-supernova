@@ -119,6 +119,11 @@ hash = "828d571a91296e2ee3be1ec509619ea01f6a61a03958461fbe543bd377daa194"
 metafile = true
 
 [[files]]
+file = "mods/attributes.pw.toml"
+hash = "8e48eaef578cb2c42a8ca7135fef522c73dee071209aac49083482526ca2975a"
+metafile = true
+
+[[files]]
 file = "mods/aures-farmers-structures.pw.toml"
 hash = "33ddaf36a14ddd05dcb011d85b7aa2ff4e496540e3b1fbd4ec75c1284f321f2f"
 metafile = true
@@ -351,6 +356,11 @@ metafile = true
 [[files]]
 file = "mods/data-anchor.pw.toml"
 hash = "62472a60936379eed43ebc923d32ecc8b17521db391a49ea687d38a5e47a047f"
+metafile = true
+
+[[files]]
+file = "mods/default-skill-trees.pw.toml"
+hash = "bd5044206dc78d8b5dba24aa8f64ef27f97da205e464ed678d818f2efa29c5a6"
 metafile = true
 
 [[files]]
@@ -1029,11 +1039,6 @@ hash = "d38cbc9694fd615ca5839e67a9070793c39f929ea55cc5af89cac46dd499e84a"
 metafile = true
 
 [[files]]
-file = "mods/passive-skill-tree.pw.toml"
-hash = "2ce53a704e67995bb5e9fbd42e59004e47ffc6487e2867131500dafd355b6b3e"
-metafile = true
-
-[[files]]
 file = "mods/patchouli.pw.toml"
 hash = "b2cb681aaf3e6085148392a06d40899239dc299aaf5ce0adf168fc225d922c97"
 metafile = true
@@ -1236,6 +1241,16 @@ metafile = true
 [[files]]
 file = "mods/sizeable-foliage.pw.toml"
 hash = "2cf152f5ed9454c8b2ef7285d209c987e3eab3fe2c6edca1da6856d3bb74b058"
+metafile = true
+
+[[files]]
+file = "mods/skills-origins.pw.toml"
+hash = "5358a0bbce2c140e566079f88a1e8461373564ed81a3792f97e197a06934bbea"
+metafile = true
+
+[[files]]
+file = "mods/skills.pw.toml"
+hash = "c9c57efc2352dbd7ecc135eadbece7d413334633a9ad048656003f4be628fd40"
 metafile = true
 
 [[files]]
