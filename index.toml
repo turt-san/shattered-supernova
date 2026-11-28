@@ -39,6 +39,11 @@ hash = "8da97b2fa0c06a23f2a582bcebcdd7ae837ec6739f128f5c7e931d4097eec9a3"
 metafile = true
 
 [[files]]
+file = "mods/ae2.pw.toml"
+hash = "327ae6465d0d39a9286dbc4cd267ccdf9c761290dca4f19d16b1e48b32dfa175"
+metafile = true
+
+[[files]]
 file = "mods/alltheleaks.pw.toml"
 hash = "1c17e2dbce14c20ecbcbeb5d03676bafc68d2a2abe23cacae3920ba99b043737"
 metafile = true
@@ -641,6 +646,11 @@ metafile = true
 [[files]]
 file = "mods/guard-villagers.pw.toml"
 hash = "b46dfe42d562bc392114e29bb1c291566eb40ee7cd78d19e093bae16db5eef8f"
+metafile = true
+
+[[files]]
+file = "mods/guideme.pw.toml"
+hash = "7cbc557e23729a2ab1a0dfa8832359edb640a9c4b2f1919e7c43cd5c7ccfdf3c"
 metafile = true
 
 [[files]]
@@ -1371,6 +1381,16 @@ metafile = true
 [[files]]
 file = "mods/time-in-a-bottle.pw.toml"
 hash = "1dd313f6077da9c867705018ecb403bd3f5313c18f943ec11ec45d879c212a12"
+metafile = true
+
+[[files]]
+file = "mods/toms-performant-storage.pw.toml"
+hash = "c5bad0c8e97d5b6dd954f23b4a945993bb91036ddee68b33b4601dd5ae343611"
+metafile = true
+
+[[files]]
+file = "mods/toms-storage.pw.toml"
+hash = "131c818cca79586fdca0535062a63581e7c438efd108be4403ab8faea92e6368"
 metafile = true
 
 [[files]]
